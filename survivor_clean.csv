@@ -1,0 +1,1160 @@
+"castaway_id","version","season","version_season","castaway","order","jury_status","result","winner","gender","all_confess","merge","wins","idols","confess_per_ep"
+"AU0001","AU",1,"AU01","Des",1,NA,"1st voted out",0,"Male",11,0,0,0,11
+"AU0002","AU",1,"AU01","Bianca",2,NA,"2nd voted out",0,"Female",8,0,1,0,4
+"AU0003","AU",1,"AU01","Evan",3,NA,"3rd voted out",0,"Male",23,0,1,0,7.67
+"AU0004","AU",1,"AU01","Peter",4,NA,"Quit",0,"Male",12,0,4,0,3
+"AU0005","AU",1,"AU01","Barry",5,NA,"4th voted out",0,"Male",8,0,5,0,1.6
+"AU0006","AU",1,"AU01","Tegan",6,NA,"5th voted out",0,"Female",14,0,7,0,2.33
+"AU0007","AU",1,"AU01","Rohan",7,NA,"6th voted out",0,"Male",28,0,5,1,4
+"AU0008","AU",1,"AU01","Kat",8,NA,"7th voted out",0,"Female",42,0,5,0,5.25
+"AU0009","AU",1,"AU01","Andrew",9,NA,"8th voted out",0,"Male",37,0,7,0,4.11
+"AU0010","AU",1,"AU01","Craig",10,NA,"9th voted out",0,"Male",34,0,7,0,3.4
+"AU0011","AU",1,"AU01","Phoebe",11,NA,"10th voted out",0,"Female",87,0,5,1,7.91
+"AU0012","AU",1,"AU01","Conner",12,NA,"11th voted out",0,"Male",44,0,7,0,3.67
+"AU0013","AU",1,"AU01","Kate",13,NA,"12th voted out",0,"Female",42,0,7,0,3.23
+"AU0014","AU",1,"AU01","Nick",14,"1st jury member","13th voted out",0,"Male",78,1,15,1,5.57
+"AU0015","AU",1,"AU01","Kylie",15,"2nd jury member","14th voted out",0,"Female",42,1,15,1,2.8
+"AU0016","AU",1,"AU01","Sue",16,"3rd jury member","15th voted out",0,"Female",35,1,7,0,2.19
+"AU0017","AU",1,"AU01","Jennah-Louise",17,"4th jury member","16th voted out",0,"Female",58,1,14,0,3.41
+"AU0018","AU",1,"AU01","Brooke",18,"5th jury member","17th voted out",0,"Female",61,1,15,1,3.39
+"AU0019","AU",1,"AU01","Sam",19,"6th jury member","18th voted out",0,"Male",70,1,14,0,3.68
+"AU0020","AU",1,"AU01","Matt",20,"7th jury member","19th voted out",0,"Male",80,1,15,0,4
+"AU0021","AU",1,"AU01","Flick",21,"8th jury member","20th voted out",0,"Female",86,1,15,0,4.1
+"AU0022","AU",1,"AU01","El",22,"9th jury member","21st voted out",0,"Female",39,1,12,0,1.77
+"AU0023","AU",1,"AU01","Lee",23,NA,"Runner-up",0,"Male",70,1,12,0,3.04
+"AU0024","AU",1,"AU01","Kristie",24,NA,"Sole Survivor",1,"Female",84,1,5,0,3.5
+"AU0025","AU",2,"AU02","Joan",1,NA,"1st voted out",0,"Female",12,0,1,0,12
+"AU0026","AU",2,"AU02","Adam",2,NA,"2nd voted out",0,"Male",11,0,3,0,5.5
+"AU0027","AU",2,"AU02","Kate",3,NA,"3rd voted out",0,"Female",4,0,4,0,1.33
+"AU0028","AU",2,"AU02","Tarzan",4,NA,"4th voted out",0,"Male",22,0,5,1,5.5
+"AU0029","AU",2,"AU02","Aimee",5,NA,"5th voted out",0,"Female",4,0,5,0,0.8
+"AU0030","AU",2,"AU02","Sam",6,NA,"6th voted out",0,"Female",20,0,5,0,3.33
+"AU0031","AU",2,"AU02","Mark",7,NA,"7th voted out",0,"Male",21,0,5,0,3
+"AU0032","AU",2,"AU02","Jacqui",8,NA,"8th voted out",0,"Female",19,0,7,0,2.38
+"AU0033","AU",2,"AU02","Kent",9,NA,"9th voted out",0,"Male",23,0,8,0,2.56
+"AU0034","AU",2,"AU02","AK",10,NA,"10th voted out",0,"Male",64,0,12,1,6.4
+"AU0035","AU",2,"AU02","Ben",11,NA,"11th voted out",0,"Male",11,0,11,0,1
+"AU0036","AU",2,"AU02","Odette",12,NA,"12th voted out",0,"Female",17,0,10,0,1.42
+"AU0037","AU",2,"AU02","Jarrad",13,"1st jury member","13th voted out",0,"Male",21,1,15,0,1.62
+"AU0038","AU",2,"AU02","Anneliese",14,"2nd jury member","14th voted out",0,"Female",40,1,13,1,2.86
+"AU0039","AU",2,"AU02","Henry",15,"3rd jury member","15th voted out",0,"Male",80,1,14,1,5.33
+"AU0040","AU",2,"AU02","Tessa",16,"Removed from jury","16th voted out",0,"Female",49,1,15,0,3.06
+"AU0041","AU",2,"AU02","Sarah",17,"4th jury member","17th voted out",0,"Female",61,1,10,0,3.59
+"AU0042","AU",2,"AU02","Luke",18,"5th jury member","18th voted out",0,"Male",113,1,10,1,6.28
+"AU0043","AU",2,"AU02","Ziggy",19,"6th jury member","19th voted out",0,"Female",45,1,15,2,2.37
+"AU0044","AU",2,"AU02","Locky",20,"7th jury member","20th voted out",0,"Male",86,1,15,0,4.3
+"AU0045","AU",2,"AU02","Michelle",21,"8th jury member","21st voted out",0,"Female",77,1,12,0,3.67
+"AU0046","AU",2,"AU02","Peter",22,"9th jury member","22nd voted out",0,"Male",45,1,13,1,2.05
+"AU0047","AU",2,"AU02","Tara",23,NA,"Runner-up",0,"Female",106,1,11,1,4.61
+"AU0048","AU",2,"AU02","Jericho",24,NA,"Sole Survivor",1,"Male",88,1,10,3,3.67
+"AU0049","AU",3,"AU03","Matt",1,NA,"1st voted out",0,"Male",8,0,1,0,8
+"US0300","AU",3,"AU03","Russell",2,NA,"2nd voted out",0,"Male",20,0,3,1,10
+"AU0050","AU",3,"AU03","Damien",3,NA,"3rd voted out",0,"Male",6,0,4,0,2
+"AU0051","AU",3,"AU03","Steve K.",4,NA,"4th voted out",0,"Male",12,0,3,0,3
+"AU0052","AU",3,"AU03","Jenna",5,NA,"5th voted out",0,"Female",14,0,3,0,2.8
+"AU0053","AU",3,"AU03","Moana",6,NA,"6th voted out",0,"Female",21,0,9,1,3.5
+"AU0054","AU",3,"AU03","Tegan",7,NA,"7th voted out",0,"Female",37,0,4,0,5.29
+"AU0055","AU",3,"AU03","Anita",8,NA,"8th voted out",0,"Female",17,0,4,0,2.12
+"AU0056","AU",3,"AU03","Zach",9,NA,"9th voted out",0,"Male",26,0,4,0,2.89
+"AU0057","AU",3,"AU03","Paige",10,NA,"10th voted out",0,"Female",12,0,4,0,1.2
+"AU0058","AU",3,"AU03","Jackie",11,NA,"11th voted out",0,"Female",21,0,14,0,1.91
+"AU0054","AU",3,"AU03","Tegan",12,NA,"12th voted out",0,"Female",37,0,4,0,3.08
+"AU0059","AU",3,"AU03","Heath",13,NA,"13th voted out",0,"Male",17,0,7,1,1.31
+"AU0060","AU",3,"AU03","Lydia",14,NA,"14th voted out",0,"Female",18,0,17,0,1.29
+"AU0061","AU",3,"AU03","Robbie",15,"1st jury member","15th voted out",0,"Male",15,1,7,0,1
+"AU0062","AU",3,"AU03","Samuel",16,"2nd jury member","16th voted out",0,"Male",26,1,15,0,1.62
+"AU0063","AU",3,"AU03","Mat",17,"3rd jury member","17th voted out",0,"Male",57,1,15,0,3.35
+"AU0064","AU",3,"AU03","Benji",18,"4th jury member","18th voted out",0,"Male",71,1,7,1,3.94
+"AU0065","AU",3,"AU03","Steve W.",19,"5th jury member","19th voted out",0,"Male",24,1,15,0,1.26
+"AU0066","AU",3,"AU03","Fenella",20,"6th jury member","20th voted out",0,"Female",22,1,7,0,1.1
+"AU0067","AU",3,"AU03","Monika",21,"7th jury member","21st voted out",0,"Female",15,1,17,0,0.71
+"AU0068","AU",3,"AU03","Shonee",22,"8th jury member","22nd voted out",0,"Female",47,1,5,1,2.14
+"AU0069","AU",3,"AU03","Brian",23,"9th jury member","23rd voted out",0,"Male",53,1,15,1,2.3
+"AU0070","AU",3,"AU03","Sharn",24,NA,"Runner-up",0,"Female",61,1,17,2,2.54
+"AU0071","AU",3,"AU03","Shane",25,NA,"Sole Survivor",1,"Female",49,1,15,1,1.96
+"AU0072","AU",4,"AU04","Anastasia",1,NA,"1st voted out",0,"Female",6,0,1,0,6
+"AU0073","AU",4,"AU04","Laura",2,NA,"2nd voted out",0,"Female",5,0,1,0,2.5
+"AU0074","AU",4,"AU04","Susie",3,NA,"3rd voted out",0,"Female",5,0,3,0,1.67
+"AU0075","AU",4,"AU04","Nova",4,NA,"4th voted out",0,"Female",11,0,4,0,2.75
+"AU0076","AU",4,"AU04","Steven",5,NA,"5th voted out",0,"Male",15,0,5,0,3
+"AU0077","AU",4,"AU04","ET",6,NA,"6th voted out",0,"Male",16,0,6,0,2.67
+"AU0078","AU",4,"AU04","Sam",7,NA,"7th voted out",0,"Female",0,0,6,0,0
+"AU0079","AU",4,"AU04","Sarah",8,NA,"8th voted out",0,"Female",17,0,6,0,2.12
+"AU0080","AU",4,"AU04","Hannah",9,NA,"9th voted out",0,"Female",2,0,8,0,0.22
+"AU0081","AU",4,"AU04","Casey",10,NA,"10th voted out",0,"Female",8,0,10,0,0.8
+"AU0082","AU",4,"AU04","Matt",11,NA,"11th voted out",0,"Female",11,0,10,0,1
+"AU0083","AU",4,"AU04","Ross",12,NA,"Evacuated",0,"Male",18,0,10,0,1.5
+"AU0084","AU",4,"AU04","Andy",13,NA,"12th voted out",0,"Male",39,0,13,0,3
+"AU0085","AU",4,"AU04","Shaun",14,"1st jury member","13th voted out",0,"Male",56,1,14,0,4
+"AU0086","AU",4,"AU04","David",15,"2nd jury member","14th voted out",0,"Male",105,1,13,0,7
+"AU0087","AU",4,"AU04","John",16,"3rd jury member","15th voted out",0,"Male",18,1,13,0,1.12
+"AU0088","AU",4,"AU04","Daisy",17,"4th jury member","16th voted out",0,"Female",65,1,13,0,3.82
+"AU0089","AU",4,"AU04","Simon",18,NA,"17th voted out",0,"Male",16,1,10,0,0.89
+"AU0089","AU",4,"AU04","Simon",19,"5th jury member","18th voted out",0,"Male",16,1,10,0,0.84
+"AU0090","AU",4,"AU04","Janine",20,"6th jury member","19th voted out",0,"Female",85,1,10,0,4.25
+"AU0091","AU",4,"AU04","Abbey",21,"7th jury member","20th voted out",0,"Female",53,1,10,0,2.52
+"AU0042","AU",4,"AU04","Luke",22,"8th jury member","21st voted out",0,"Male",96,1,13,0,4.36
+"AU0092","AU",4,"AU04","Harry",23,"9th jury member","22nd voted out",0,"Male",108,1,10,0,4.7
+"AU0093","AU",4,"AU04","Baden",24,NA,"Runner-up",0,"Male",23,1,13,0,0.96
+"AU0094","AU",4,"AU04","Pia",25,NA,"Sole Survivor",1,"Female",83,1,10,0,3.32
+"AU0071","AU",5,"AU05","Shane",1,NA,"1st voted out",0,"Female",5,0,1,0,5
+"AU0048","AU",5,"AU05","Jericho",2,NA,"2nd voted out",0,"Male",7,0,2,0,3.5
+"AU0088","AU",5,"AU05","Daisy",3,NA,"3rd voted out",0,"Female",7,0,2,0,2.33
+"AU0045","AU",5,"AU05","Michelle",4,NA,"4th voted out",0,"Female",8,0,4,0,2
+"AU0039","AU",5,"AU05","Henry",5,NA,"5th voted out",0,"Male",23,0,5,0,4.6
+"AU0091","AU",5,"AU05","Abbey",6,NA,"6th voted out",0,"Female",19,0,7,0,3.17
+"AU0060","AU",5,"AU05","Lydia",7,NA,"7th voted out",0,"Female",14,0,7,0,2
+"AU0087","AU",5,"AU05","John",8,NA,"9th voted out",0,"Male",5,0,7,0,0.62
+"AU0063","AU",5,"AU05","Mat",9,NA,"10th voted out",0,"Male",53,0,7,0,5.89
+"AU0011","AU",5,"AU05","Phoebe",10,NA,"11th voted out",0,"Female",24,0,10,0,2.4
+"AU0021","AU",5,"AU05","Flick",11,NA,"12th voted out",0,"Female",7,0,9,0,0.64
+"AU0014","AU",5,"AU05","Nick",12,NA,"13th voted out",0,"Male",56,0,12,0,4.67
+"AU0044","AU",5,"AU05","Locky",13,"1st jury member","14th voted out",0,"Male",23,1,10,0,1.77
+"AU0092","AU",5,"AU05","Harry",14,"2nd jury member","15th voted out",0,"Male",49,1,10,0,3.5
+"AU0023","AU",5,"AU05","Lee",15,NA,"Medically evacuated",0,"Male",13,0,12,0,0.87
+"AU0056","AU",5,"AU05","Zach",16,"3rd jury member","16th voted out",0,"Male",23,1,12,0,1.44
+"AU0032","AU",5,"AU05","Jacqui",17,"4th jury member","17th voted out",0,"Female",23,1,12,0,1.35
+"AU0068","AU",5,"AU05","Shonee",18,"5th jury member","18th voted out",0,"Female",77,1,10,0,4.28
+"AU0034","AU",5,"AU05","AK",19,"6th jury member","Eliminated",0,"Male",44,1,10,0,2.32
+"AU0028","AU",5,"AU05","Tarzan",20,"7th jury member","19th voted out",0,"Male",24,1,12,0,1.2
+"AU0018","AU",5,"AU05","Brooke",21,"8th jury member","20th voted out",0,"Female",56,1,10,0,2.67
+"AU0053","AU",5,"AU05","Moana",22,"9th jury member","21st voted out",0,"Female",82,1,12,0,3.73
+"AU0070","AU",5,"AU05","Sharn",23,NA,"Runner-up",0,"Female",46,1,12,0,2
+"AU0086","AU",5,"AU05","David",24,NA,"Sole Survivor",1,"Male",151,1,12,0,6.29
+"AU0096","AU",6,"AU06","Phil",1,NA,"1st voted out",0,"Non-binary",2,0,0,0,2
+"AU0097","AU",6,"AU06","Janelle",2,NA,"2nd voted out",0,"Female",6,0,3,0,3
+"AU0098","AU",6,"AU06","Gavin",3,NA,"3rd voted out",0,"Male",2,0,4,0,0.67
+"AU0099","AU",6,"AU06","Benny",4,NA,"4th voted out",0,"Male",3,0,5,0,0.75
+"AU0100","AU",6,"AU06","Mitch",5,NA,"5th voted out",0,"Male",9,0,2,0,1.8
+"AU0101","AU",6,"AU06","Joey",6,NA,"6th voted out",0,"Male",33,0,3,0,5.5
+"AU0102","AU",6,"AU06","Daini",7,NA,"7th voted out",0,"Male",11,0,10,0,1.57
+"AU0103","AU",6,"AU06","Shannon",8,NA,"8th voted out",0,"Female",19,0,11,0,2.38
+"AU0104","AU",6,"AU06","Georgia",9,NA,"9th voted out",0,"Female",8,0,4,0,0.89
+"AU0105","AU",6,"AU06","Rachel",10,NA,"10th voted out",0,"Female",31,0,4,0,3.1
+"AU0106","AU",6,"AU06","Simon",11,NA,"11th voted out",0,"Male",53,0,13,2,4.82
+"AU0107","AU",6,"AU06","Kez",12,NA,"12th voted out",0,"Female",22,0,13,1,1.83
+"AU0109","AU",6,"AU06","Baden",13,"1st jury member","13th voted out",0,"Male",24,1,6,0,1.85
+"AU0108","AU",6,"AU06","Chelsea",14,NA,"Medically evacuated",0,"Female",5,0,13,0,0.36
+"AU0119","AU",6,"AU06","Hayley",15,NA,"14th voted out",0,"Female",129,0,6,1,8.6
+"AU0110","AU",6,"AU06","Gerald",16,"2nd jury member","15th voted out",0,"Male",9,1,13,0,0.56
+"AU0111","AU",6,"AU06","Laura",17,"3rd jury member","16th voted out",0,"Female",30,1,6,1,1.76
+"AU0112","AU",6,"AU06","Emmett",18,"4th jury member","17th voted out",0,"Male",72,1,13,0,4
+"AU0113","AU",6,"AU06","Andrew",19,"5th jury member","18th voted out",0,"Male",13,1,6,0,0.68
+"AU0117","AU",6,"AU06","Flick",20,"9th jury member","19th voted out",0,"Female",56,1,13,2,2.8
+"AU0114","AU",6,"AU06","Dani",21,"6th jury member","20th voted out",0,"Female",83,1,13,0,3.95
+"AU0115","AU",6,"AU06","Wai",22,"7th jury member","21st voted out",0,"Female",34,1,6,0,1.55
+"AU0116","AU",6,"AU06","Cara",23,"8th jury member","22nd voted out",0,"Female",57,1,6,1,2.48
+"AU0117","AU",6,"AU06","Flick",24,"9th jury member","23rd voted out",0,"Female",56,1,13,2,2.33
+"AU0118","AU",6,"AU06","George",25,NA,"Runner-up",0,"Male",160,1,6,3,6.4
+"AU0119","AU",6,"AU06","Hayley",26,NA,"Sole Survivor",1,"Female",129,1,6,1,4.96
+"AU0084","AU",7,"AU07","Andy",1,NA,"1st voted out",0,"Male",6,0,1,0,6
+"AU0131","AU",7,"AU07","Briana",2,NA,"2nd voted out",0,"Female",17,0,2,0,8.5
+"AU0127","AU",7,"AU07","Kate",3,NA,"3rd voted out",0,"Female",5,0,3,0,1.67
+"AU0129","AU",7,"AU07","Sophie",4,NA,"4th voted out",0,"Female",31,0,9,0,7.75
+"AU0130","AU",7,"AU07","Alex",5,NA,"Quit",0,"Male",3,0,5,0,0.6
+"AU0124","AU",7,"AU07","Jay",6,NA,"5th voted out",0,"Male",0,0,5,0,0
+"US0112","AU",7,"AU07","Sandra",7,NA,"6th voted out",0,"Female",49,0,5,0,7
+"AU0129","AU",7,"AU07","Sophie",8,NA,"7th voted out",0,"Female",31,0,9,0,3.88
+"AU0120","AU",7,"AU07","Amy",9,NA,"8th voted out",0,"Female",23,0,6,1,2.56
+"AU0138","AU",7,"AU07","Nina",10,NA,"Medically evacuated",0,"Female",37,0,11,0,3.7
+"AU0122","AU",7,"AU07","Croc",11,NA,"9th voted out",0,"Male",19,0,8,1,1.73
+"AU0121","AU",7,"AU07","Ben",12,NA,"10th voted out",0,"Male",22,0,8,0,1.83
+"AU0135","AU",7,"AU07","Khanh",13,"1st jury member","11th voted out",0,"Male",39,1,10,1,3
+"AU0137","AU",7,"AU07","Mel",14,"2nd jury member","12th voted out",0,"Female",8,1,12,0,0.57
+"AU0125","AU",7,"AU07","Jesse",15,"3rd jury member","13th voted out",0,"Male",38,1,8,1,2.53
+"AU0139","AU",7,"AU07","Shay",16,NA,"14th voted out",0,"Female",46,1,12,1,2.88
+"AU0133","AU",7,"AU07","Jordie",17,NA,"15th voted out",0,"Male",116,1,12,0,6.82
+"AU0136","AU",7,"AU07","KJ",18,NA,"16th voted out",0,"Female",43,1,10,1,2.39
+"AU0128","AU",7,"AU07","Michelle",19,"4th jury member","17th voted out",0,"Female",15,1,8,0,0.79
+"AU0126","AU",7,"AU07","Jordan",20,"5th jury member","18th voted out",0,"Male",16,1,10,0,0.8
+"AU0030","AU",7,"AU07","Sam",21,"6th jury member","19th voted out",0,"Female",109,1,8,0,5.19
+"AU0123","AU",7,"AU07","David",22,"7th jury member","20th voted out",0,"Male",31,1,10,1,1.41
+"AU0133","AU",7,"AU07","Jordie",23,"8th jury member","21st voted out",0,"Male",116,1,12,0,5.04
+"AU0136","AU",7,"AU07","KJ",24,"9th jury member","22nd voted out",0,"Female",43,1,10,1,1.79
+"AU0134","AU",7,"AU07","Josh",25,"10th jury member","23rd voted out",0,"Male",61,1,12,0,2.44
+"AU0139","AU",7,"AU07","Shay",26,NA,"Runner-up",0,"Female",46,1,12,1,1.77
+"AU0132","AU",7,"AU07","Chrissy",27,NA,"2nd runner-up",0,"Female",71,1,10,1,2.63
+"AU0031","AU",7,"AU07","Mark",28,NA,"Sole Survivor",1,"Male",99,1,12,1,3.54
+"NZ0001","NZ",1,"NZ01","Hannah",1,NA,"1st voted out",0,"Female",8,0,0,0,8
+"NZ0002","NZ",1,"NZ01","Dee",2,NA,"2nd voted out",0,"Female",5,0,0,0,2.5
+"NZ0003","NZ",1,"NZ01","Tony",3,NA,"3rd voted out",0,"Male",24,0,0,0,8
+"NZ0004","NZ",1,"NZ01","Izzy",4,NA,"4th voted out",0,"Female",16,0,0,0,4
+"NZ0005","NZ",1,"NZ01","Lou",5,NA,"Medically evacuated",0,"Female",4,0,1,0,0.8
+"NZ0006","NZ",1,"NZ01","Georgia",6,NA,"5th voted out",0,"Female",19,0,3,0,3.17
+"NZ0007","NZ",1,"NZ01","Shay",7,NA,"6th voted out",0,"Female",74,0,2,0,10.57
+"NZ0008","NZ",1,"NZ01","Lee",8,"1st jury member","7th voted out",0,"Male",23,1,4,0,2.88
+"NZ0009","NZ",1,"NZ01","Mike",9,NA,"8th voted out",0,"Male",78,0,4,0,8.67
+"NZ0010","NZ",1,"NZ01","Sala",10,"2nd jury member","9th voted out",0,"Male",74,1,3,0,7.4
+"NZ0011","NZ",1,"NZ01","Jak",11,"5th jury member","10th voted out",0,"Male",64,1,4,0,5.82
+"NZ0012","NZ",1,"NZ01","Shannon",12,"3rd jury member","11th voted out",0,"Female",95,1,4,0,7.92
+"NZ0007","NZ",1,"NZ01","Shay",13,"4th jury member","12th voted out",0,"Female",74,1,2,0,5.69
+"NZ0013","NZ",1,"NZ01","Nate",14,NA,"13th voted out",0,"Male",120,0,5,0,8.57
+"NZ0009","NZ",1,"NZ01","Mike",15,"6th jury member","14th voted out",0,"Male",78,1,4,0,5.2
+"NZ0013","NZ",1,"NZ01","Nate",16,"7th jury member","15th voted out",0,"Male",120,1,5,0,7.5
+"NZ0014","NZ",1,"NZ01","Barb",17,NA,"2nd runner-up",0,"Female",83,1,5,0,4.88
+"NZ0016","NZ",1,"NZ01","Avi",18,NA,"Sole Survivor",1,"Male",158,1,3,0,8.78
+"NZ0015","NZ",1,"NZ01","Tom",19,NA,"Runner-up",0,"Male",128,1,2,0,6.74
+"SA0001","SA",1,"SA01","Don",1,NA,"1st voted out",0,"Male",3,0,0,0,3
+"SA0002","SA",1,"SA01","Sam",2,NA,"2nd voted out",0,"Male",11,0,3,0,5.5
+"SA0003","SA",1,"SA01","Jude",3,NA,"Quit",0,"Female",13,0,4,0,4.33
+"SA0004","SA",1,"SA01","Ncumisa",4,NA,"3rd voted out",0,"Female",17,0,3,0,4.25
+"SA0005","SA",1,"SA01","Sanele",5,NA,"Medically evacuated",0,"Male",15,0,7,0,3
+"SA0006","SA",1,"SA01","Danielle",6,NA,"4th voted out",0,"Female",20,0,4,0,3.33
+"SA0007","SA",1,"SA01","Nico",7,NA,"5th voted out",0,"Male",37,0,9,1,5.29
+"SA0008","SA",1,"SA01","Brigitte",8,"1st jury member","6th voted out",0,"Female",37,1,9,0,4.62
+"SA0009","SA",1,"SA01","Mzi",9,NA,"7th voted out",0,"Male",46,0,9,0,5.11
+"SA0010","SA",1,"SA01","Vanessa",10,NA,"8th voted out",0,"Female",44,0,9,0,4.4
+"SA0011","SA",1,"SA01","Lezel",11,"2nd jury member","9th voted out",0,"Female",33,1,6,0,3
+"SA0012","SA",1,"SA01","Gareth",12,"3rd jury member","10th voted out",0,"Male",46,1,6,0,3.83
+"SA0013","SA",1,"SA01","Zayn",13,"4th jury member","11th voted out",0,"Male",39,1,6,0,3
+"SA0009","SA",1,"SA01","Mzi",14,"5th jury member","12th voted out",0,"Male",46,1,9,0,3.29
+"SA0014","SA",1,"SA01","Jacinda",15,NA,"Runner-up",0,"Female",33,0,6,0,2.2
+"SA0010","SA",1,"SA01","Vanessa",16,NA,"Sole Survivor",1,"Female",44,1,9,0,2.75
+"SA0015","SA",2,"SA02","Nomfundo",1,NA,"1st voted out",0,"Female",4,0,0,0,4
+"SA0016","SA",2,"SA02","Nicola",2,NA,"2nd voted out",0,"Female",7,0,1,0,3.5
+"SA0017","SA",2,"SA02","Viwe",3,NA,"3rd voted out",0,"Male",7,0,3,0,2.33
+"SA0018","SA",2,"SA02","Elise",4,NA,"4th voted out",0,"Female",13,0,4,0,3.25
+"SA0019","SA",2,"SA02","Nichal",5,NA,"5th voted out",0,"Male",7,0,4,0,1.4
+"SA0020","SA",2,"SA02","Rijesh",6,NA,"6th voted out",0,"Male",25,0,6,0,4.17
+"SA0021","SA",2,"SA02","Lisa",7,NA,"7th voted out",0,"Female",20,0,5,0,2.86
+"SA0022","SA",2,"SA02","Irshaad",8,NA,"8th voted out",0,"Male",33,0,8,0,4.12
+"SA0023","SA",2,"SA02","Hein",9,NA,"9th voted out",0,"Male",35,0,7,0,3.89
+"SA0024","SA",2,"SA02","Dyke",10,"1st jury member","10th voted out",0,"Male",48,1,9,0,4.8
+"SA0025","SA",2,"SA02","Angela",11,"2nd jury member","11th voted out",0,"Female",38,1,7,0,3.45
+"SA0026","SA",2,"SA02","Angie",12,"3rd jury member","12th voted out",0,"Female",65,1,8,0,5.42
+"SA0027","SA",2,"SA02","Mandla",13,"4th jury member","Eliminated",0,"Male",56,1,6,0,4.31
+"SA0028","SA",2,"SA02","Amanda",14,"5th jury member","13th voted out",0,"Female",54,1,9,0,3.86
+"SA0029","SA",2,"SA02","Grant",15,NA,"Runner-up",0,"Male",77,0,6,0,5.13
+"SA0030","SA",2,"SA02","Lorette",16,NA,"Sole Survivor",1,"Female",43,1,6,0,2.69
+"SA0031","SA",3,"SA03","Christina",1,NA,"Quit",0,"Female",2,0,0,0,2
+"SA0032","SA",3,"SA03","Garth",2,NA,"1st voted out",0,"Male",2,0,0,0,1
+"SA0033","SA",3,"SA03","Jub Jub",3,NA,"Quit",0,"Male",9,0,0,0,3
+"SA0034","SA",3,"SA03","Cindy",4,NA,"2nd voted out",0,"Female",3,0,2,0,0.75
+"SA0035","SA",3,"SA03","Craig",5,NA,"3rd voted out",0,"Male",10,0,2,0,2
+"SA0036","SA",3,"SA03","Lady Lea",6,NA,"4th voted out",0,"Female",9,0,3,0,1.5
+"SA0037","SA",3,"SA03","Darren",7,NA,"5th voted out",0,"Male",24,0,3,1,3.43
+"SA0038","SA",3,"SA03","Sandi",8,NA,"6th voted out",0,"Female",11,0,3,0,1.38
+"SA0039","SA",3,"SA03","Hanna",9,"1st jury member","7th voted out",0,"Female",16,1,7,0,1.78
+"SA0040","SA",3,"SA03","Louw",10,"2nd jury member","8th voted out",0,"Male",18,1,3,0,1.8
+"SA0041","SA",3,"SA03","Okkert",11,"3rd jury member","9th voted out",0,"Male",33,1,7,0,3
+"SA0042","SA",3,"SA03","Gys",12,"4th jury member","10th voted out",0,"Male",25,1,6,0,2.08
+"SA0043","SA",3,"SA03","Izak",13,"5th jury member","11th voted out",0,"Male",19,1,4,0,1.46
+"SA0044","SA",3,"SA03","Kaseran",14,"6th jury member","12th voted out",0,"Male",46,1,3,0,3.29
+"SA0045","SA",3,"SA03","Sade",15,"7th jury member","13th voted out",0,"Female",48,1,7,0,3.2
+"SA0046","SA",3,"SA03","ProVerb",16,"8th jury member","14th voted out",0,"Male",38,1,3,0,2.38
+"SA0047","SA",3,"SA03","Ashley",17,NA,"Runner-up",0,"Female",59,1,3,1,3.47
+"SA0048","SA",3,"SA03","GiGi",18,NA,"Sole Survivor",1,"Female",36,1,7,0,2
+"SA0049","SA",4,"SA04","Lukhanyo",1,NA,"1st voted out",0,"Male",9,0,1,0,9
+"SA0050","SA",4,"SA04","Philicity",2,NA,"2nd voted out",0,"Female",6,0,1,0,3
+"SA0051","SA",4,"SA04","Tshepo",3,NA,"3rd voted out",0,"Male",11,0,4,0,3.67
+"SA0052","SA",4,"SA04","Tasleem",4,NA,"4th voted out",0,"Female",8,0,4,1,2
+"SA0053","SA",4,"SA04","Carmel",5,NA,"5th voted out",0,"Female",14,0,5,0,2.8
+"SA0054","SA",4,"SA04","Jacques",6,NA,"Quit",0,"Male",10,0,5,0,1.67
+"SA0055","SA",4,"SA04","Sindi",7,NA,"6th voted out",0,"Female",6,0,5,0,0.86
+"SA0056","SA",4,"SA04","Vanessa",8,"1st jury member","Medically evacuated",0,"Female",14,1,5,0,1.75
+"SA0057","SA",4,"SA04","Roxy",9,"2nd jury member","7th voted out",0,"Female",21,1,5,1,2.33
+"SA0058","SA",4,"SA04","Harry",10,"3rd jury member","8th voted out",0,"Male",23,1,8,1,2.3
+"SA0059","SA",4,"SA04","Simon",11,"4th jury member","9th voted out",0,"Male",25,1,6,0,2.27
+"SA0060","SA",4,"SA04","Malusi",12,"5th jury member","10th voted out",0,"Male",22,1,4,0,1.83
+"SA0061","SA",4,"SA04","Tejan",13,"6th jury member","11th voted out",0,"Male",38,1,8,1,2.92
+"SA0062","SA",4,"SA04","Sean",14,"7th jury member","12th voted out",0,"Male",20,1,6,0,1.43
+"SA0063","SA",4,"SA04","Alison",15,"8th jury member","13th voted out",0,"Female",47,1,6,1,3.13
+"SA0064","SA",4,"SA04","Mxo",16,"9th jury member","14th voted out",0,"Male",28,1,6,0,1.75
+"SA0065","SA",4,"SA04","Bonnie",17,"10th jury member","15th voted out",0,"Female",39,1,8,2,2.29
+"SA0066","SA",4,"SA04","Letshego",18,NA,"Runner-up",0,"Female",35,1,8,1,1.94
+"SA0067","SA",4,"SA04","Hykie",19,NA,"Sole Survivor",1,"Male",35,1,8,0,1.84
+"SA0068","SA",5,"SA05","Ashleigh",1,NA,"1st voted out",0,"Female",5,0,0,0,5
+"SA0069","SA",5,"SA05","Marsha",2,NA,"2nd voted out",0,"Female",5,0,1,0,2.5
+"SA0070","SA",5,"SA05","Killarney",3,NA,"3rd voted out",0,"Female",8,0,3,0,2.67
+"SA0071","SA",5,"SA05","Zan",4,NA,"4th voted out",0,"Male",12,0,4,0,3
+"SA0072","SA",5,"SA05","Shona",5,NA,"5th voted out",0,"Female",16,0,3,0,3.2
+"SA0073","SA",5,"SA05","Phil",6,NA,"6th voted out",0,"Male",23,0,4,0,3.83
+"SA0074","SA",5,"SA05","Gena",7,NA,"7th voted out",0,"Female",23,0,4,0,3.29
+"SA0075","SA",5,"SA05","Sonette",8,NA,"8th voted out",0,"Female",21,0,6,0,2.62
+"SA0076","SA",5,"SA05","Stephen",9,NA,"9th voted out",0,"Male",30,0,7,0,3.33
+"SA0077","SA",5,"SA05","Marian",10,"1st jury member","10th voted out",0,"Female",30,1,7,0,3
+"SA0078","SA",5,"SA05","Solly",11,"2nd jury member","11th voted out",0,"Male",37,1,9,0,3.36
+"SA0079","SA",5,"SA05","Moyra",12,"3rd jury member","12th voted out",0,"Female",29,1,8,0,2.42
+"SA0080","SA",5,"SA05","Vel",13,"4th jury member","13th voted out",0,"Female",13,1,9,0,1
+"SA0081","SA",5,"SA05","Shane",14,"5th jury member","14th voted out",0,"Male",68,1,7,2,4.86
+"SA0082","SA",5,"SA05","Altaaf",15,"6th jury member","15th voted out",0,"Male",50,1,8,0,3.33
+"SA0083","SA",5,"SA05","Zavion",16,"7th jury member","16th voted out",0,"Male",76,1,8,0,4.75
+"SA0084","SA",5,"SA05","David",17,"8th jury member","17th voted out",0,"Male",70,1,6,1,4.12
+"SA0085","SA",5,"SA05","Sivu",18,NA,"2nd Runner-up",0,"Male",58,1,7,1,3.22
+"SA0086","SA",5,"SA05","Buhle",19,NA,"Runner-up",0,"Female",40,1,9,0,2.11
+"SA0087","SA",5,"SA05","Graham",20,NA,"Sole Survivor",1,"Male",88,1,8,0,4.4
+"SA0088","SA",6,"SA06","Seamus",1,NA,"1st voted out",0,"Male",11,0,0,0,11
+"SA0089","SA",6,"SA06","Neil",2,NA,"Eliminated",0,"Male",8,0,0,0,4
+"SA0090","SA",6,"SA06","Stacey-Lee",3,NA,"2nd voted out",0,"Female",7,0,4,0,2.33
+"SA0091","SA",6,"SA06","Ace",4,NA,"3rd voted out",0,"Male",24,0,3,0,6
+"SA0092","SA",6,"SA06","Murishca",5,NA,"4th voted out",0,"Female",20,0,5,0,4
+"SA0093","SA",6,"SA06","Marthunis",6,NA,"Quit",0,"Male",23,0,7,0,3.83
+"SA0094","SA",6,"SA06","Tevin",7,NA,"5th voted out",0,"Male",39,0,8,0,5.57
+"SA0095","SA",6,"SA06","Josie",8,NA,"6th voted out",0,"Female",37,0,5,0,4.62
+"SA0096","SA",6,"SA06","Vusi",9,"1st jury member","7th voted out",0,"Male",14,1,7,0,1.56
+"SA0097","SA",6,"SA06","Chane",10,"2nd jury member","8th voted out",0,"Female",39,1,7,1,3.9
+"SA0098","SA",6,"SA06","Palesa",11,"3rd jury member","9th voted out",0,"Female",60,1,7,2,5.45
+"SA0099","SA",6,"SA06","Toni",12,"4th jury member","10th voted out",0,"Female",42,1,7,1,3.5
+"SA0100","SA",6,"SA06","PK",13,"5th jury member","11th voted out",0,"Male",53,1,8,1,4.08
+"SA0101","SA",6,"SA06","Katinka",14,"6th jury member","12th voted out",0,"Female",40,1,11,0,2.86
+"SA0102","SA",6,"SA06","Werner",15,"7th jury member","13th voted out",0,"Male",87,1,10,2,5.8
+"SA0103","SA",6,"SA06","Annalize",16,"8th jury member","14th voted out",0,"Female",43,1,9,0,2.69
+"SA0104","SA",6,"SA06","Jeanne",17,NA,"Runner-up",0,"Female",77,1,10,1,4.53
+"SA0105","SA",6,"SA06","Tom",18,NA,"Sole Survivor",1,"Male",78,1,7,0,4.33
+"SA0106","SA",7,"SA07","Lee-Anne",1,NA,"1st voted out",0,"Female",7,0,1,0,7
+"SA0107","SA",7,"SA07","Paul",2,NA,"2nd voted out",0,"Male",6,0,1,0,3
+"SA0108","SA",7,"SA07","Ting Ting",3,NA,"3rd voted out",0,"Female",17,0,4,0,5.67
+"SA0109","SA",7,"SA07","Rose-Lee",4,NA,"4th voted out",0,"Female",11,0,4,0,2.75
+"SA0110","SA",7,"SA07","Felix",5,NA,"5th voted out",0,"Male",19,0,5,0,3.8
+"SA0111","SA",7,"SA07","Tania",6,NA,"6th voted out",0,"Female",19,0,6,0,3.17
+"SA0112","SA",7,"SA07","Rocco",7,NA,"7th voted out",0,"Male",17,0,9,0,2.43
+"SA0113","SA",7,"SA07","Nathan",8,NA,"8th voted out",0,"Male",37,0,6,1,4.62
+"SA0114","SA",7,"SA07","Meryl",9,"1st jury member","9th voted out",0,"Female",22,1,9,1,2.44
+"SA0115","SA",7,"SA07","Geoffrey",10,"2nd jury member","10th voted out",0,"Male",41,1,8,0,4.1
+"SA0116","SA",7,"SA07","Seipei",11,"3rd jury member","11th voted out",0,"Female",48,1,7,0,4.36
+"SA0117","SA",7,"SA07","Dante",12,"4th jury member","12th voted out",0,"Male",51,1,9,0,4.25
+"SA0118","SA",7,"SA07","Cobus",13,"5th jury member","13th voted out",0,"Male",51,1,10,0,3.92
+"SA0119","SA",7,"SA07","Mmaba",14,"6th jury member","14th voted out",0,"Female",28,1,8,1,2
+"SA0120","SA",7,"SA07","Jacques",15,"7th jury member","15th voted out",0,"Male",76,1,9,4,5.07
+"SA0121","SA",7,"SA07","Mike",16,"8th jury member","16th voted out",0,"Male",69,1,10,0,4.31
+"SA0122","SA",7,"SA07","Steffi",17,"9th jury member","Eliminated",0,"Female",68,1,5,0,4
+"SA0123","SA",7,"SA07","Laetitia",18,"10th jury member","17th voted out",0,"Female",32,1,11,2,1.78
+"SA0124","SA",7,"SA07","Durao",19,NA,"2nd runner-up",0,"Male",47,1,7,2,2.47
+"SA0125","SA",7,"SA07","Nicole",20,NA,"Runner-up",0,"Female",80,1,7,1,4
+"SA0126","SA",7,"SA07","Rob",21,NA,"Sole Survivor",1,"Male",121,1,9,1,5.76
+"SA0127","SA",8,"SA08","Jason",1,NA,"1st voted out",0,"Male",11,0,1,0,11
+"SA0128","SA",8,"SA08","Pinty",2,NA,"2nd voted out",0,"Female",7,0,2,0,3.5
+"SA0129","SA",8,"SA08","Mike",3,NA,"3rd voted out",0,"Male",17,0,3,0,5.67
+"SA0130","SA",8,"SA08","Paul",4,NA,"4th voted out",0,"Male",5,0,3,0,1.25
+"SA0131","SA",8,"SA08","Thoriso",5,NA,"5th voted out",0,"Female",16,0,7,0,3.2
+"SA0132","SA",8,"SA08","Carla",6,NA,"6th voted out",0,"Female",25,0,3,0,4.17
+"SA0133","SA",8,"SA08","Dino",7,NA,"7th voted out",0,"Male",21,0,7,0,3
+"SA0134","SA",8,"SA08","Qiean",8,NA,"8th voted out",0,"Female",9,0,7,0,1.12
+"SA0135","SA",8,"SA08","Marisha",9,"1st jury member","9th voted out",0,"Female",16,1,10,0,1.78
+"SA0136","SA",8,"SA08","Shaun",10,"2nd jury member","10th voted out",0,"Male",26,1,7,0,2.6
+"SA0137","SA",8,"SA08","Renier",11,"3rd jury member","11th voted out",0,"Male",41,1,10,0,3.73
+"SA0138","SA",8,"SA08","Amy",12,"4th jury member","Tied destiny",0,"Female",35,1,7,0,2.92
+"SA0139","SA",8,"SA08","Anesu",13,"5th jury member","12th voted out",0,"Female",43,1,9,0,3.31
+"SA0140","SA",8,"SA08","Wardah",14,"Removed jury member","13th voted out",0,"Female",43,1,3,0,3.07
+"SA0141","SA",8,"SA08","Santoni",15,"7th jury member","Eliminated",0,"Female",81,1,3,0,5.4
+"SA0142","SA",8,"SA08","Kiran",16,"8th jury member","14th voted out",0,"Male",51,1,6,0,3.19
+"SA0143","SA",8,"SA08","Tyson",17,"9th jury member","15th voted out",0,"Male",76,1,6,0,4.47
+"SA0144","SA",8,"SA08","Chappies",18,"10th jury member","16th voted out",0,"Male",98,1,6,0,5.44
+"SA0145","SA",8,"SA08","Anela",19,NA,"Runner-up",0,"Male",71,1,4,0,3.74
+"SA0146","SA",8,"SA08","Nicole",20,NA,"Sole Survivor",1,"Female",47,1,10,0,2.35
+"SA0144","SA",9,"SA09","Chappies",1,NA,"1st voted out",0,"Male",11,0,1,0,11
+"SA0100","SA",9,"SA09","PK",2,NA,"2nd voted out",0,"Male",7,0,1,0,3.5
+"SA0111","SA",9,"SA09","Tania",3,NA,"3rd voted out",0,"Female",16,0,2,0,5.33
+"SA0094","SA",9,"SA09","Tevin",4,NA,"4th voted out",0,"Male",23,0,2,1,5.75
+"SA0088","SA",9,"SA09","Seamus",5,NA,"5th voted out",0,"Male",24,0,3,1,4.8
+"SA0072","SA",9,"SA09","Shona",6,NA,"6th voted out",0,"Female",11,0,3,0,1.83
+"SA0128","SA",9,"SA09","Pinty",7,NA,"7th voted out",0,"Female",23,0,4,0,3.29
+"SA0131","SA",9,"SA09","Thoriso",8,NA,"8th voted out",0,"Female",28,0,4,0,3.5
+"SA0098","SA",9,"SA09","Palesa",9,NA,"9th voted out",0,"Female",29,0,5,0,3.22
+"SA0099","SA",9,"SA09","Toni",10,"1st jury member","10th voted out",0,"Female",38,1,7,0,3.8
+"SA0117","SA",9,"SA09","Dante",11,"2nd jury member","11th voted out",0,"Male",38,1,6,1,3.45
+"SA0122","SA",9,"SA09","Steffi",12,"3rd jury member","12th voted out",0,"Female",43,1,7,1,3.58
+"SA0114","SA",9,"SA09","Meryl",13,"4th jury member","13th voted out",0,"Female",51,1,6,3,3.92
+"SA0061","SA",9,"SA09","Tejan",14,"5th jury member","14th voted out",0,"Male",43,1,7,2,3.07
+"SA0110","SA",9,"SA09","Felix",15,"6th jury member","15th voted out",0,"Male",58,1,6,0,3.87
+"SA0070","SA",9,"SA09","Killarney",16,"7th jury member","16th voted out",0,"Female",25,1,6,0,1.56
+"SA0073","SA",9,"SA09","Phil",17,"8th jury member","17th voted out",0,"Male",99,1,5,1,5.82
+"SA0077","SA",9,"SA09","Marian",18,"9th jury member","18th voted out",0,"Female",99,1,6,2,5.5
+"SA0081","SA",9,"SA09","Shane",19,NA,"Runner-up",0,"Male",55,1,6,1,2.89
+"SA0133","SA",9,"SA09","Dino",20,NA,"Sole Survivor",1,"Male",98,1,5,3,4.9
+"US0001","US",1,"US01","Sonja",1,NA,"1st voted out",0,"Female",2,0,0,0,2
+"US0002","US",1,"US01","B.B.",2,NA,"2nd voted out",0,"Male",11,0,2,0,5.5
+"US0003","US",1,"US01","Stacey",3,NA,"3rd voted out",0,"Female",9,0,2,0,3
+"US0004","US",1,"US01","Ramona",4,NA,"4th voted out",0,"Female",19,0,3,0,4.75
+"US0005","US",1,"US01","Dirk",5,NA,"5th voted out",0,"Male",11,0,4,0,2.2
+"US0006","US",1,"US01","Joel",6,NA,"6th voted out",0,"Male",22,0,6,0,3.67
+"US0007","US",1,"US01","Gretchen",7,NA,"7th voted out",0,"Female",35,0,6,0,5
+"US0008","US",1,"US01","Greg",8,"1st jury member","8th voted out",0,"Male",35,1,6,0,4.38
+"US0009","US",1,"US01","Jenna",9,"2nd jury member","9th voted out",0,"Female",47,1,6,0,5.22
+"US0010","US",1,"US01","Gervase",10,"3rd jury member","10th voted out",0,"Male",56,1,6,0,5.6
+"US0011","US",1,"US01","Colleen",11,"4th jury member","11th voted out",0,"Female",54,1,6,0,4.91
+"US0012","US",1,"US01","Sean",12,"5th jury member","12th voted out",0,"Male",57,1,5,0,4.75
+"US0013","US",1,"US01","Sue",13,"6th jury member","13th voted out",0,"Female",71,1,5,0,5.46
+"US0014","US",1,"US01","Rudy",14,"7th jury member","14th voted out",0,"Male",51,1,5,0,3.64
+"US0015","US",1,"US01","Kelly",15,NA,"Runner-up",0,"Female",85,0,5,0,5.67
+"US0016","US",1,"US01","Richard",16,NA,"Sole Survivor",1,"Male",92,1,5,0,5.75
+"US0017","US",2,"US02","Debb",1,NA,"1st voted out",0,"Female",4,0,0,0,4
+"US0018","US",2,"US02","Kel",2,NA,"2nd voted out",0,"Male",4,0,2,0,2
+"US0019","US",2,"US02","Maralyn",3,NA,"3rd voted out",0,"Female",12,0,3,0,4
+"US0020","US",2,"US02","Mitchell",4,NA,"4th voted out",0,"Male",18,0,3,0,4.5
+"US0021","US",2,"US02","Kimmi",5,NA,"5th voted out",0,"Female",16,0,5,0,3.2
+"US0022","US",2,"US02","Michael",6,NA,"Medically evacuated",0,"Male",21,0,6,0,3.5
+"US0023","US",2,"US02","Jeff",7,NA,"6th voted out",0,"Male",35,0,6,0,5
+"US0024","US",2,"US02","Alicia",8,"1st jury member","7th voted out",0,"Female",23,1,6,0,2.88
+"US0025","US",2,"US02","Jerri",9,"2nd jury member","8th voted out",0,"Female",60,1,4,0,6.67
+"US0026","US",2,"US02","Nick",10,"3rd jury member","9th voted out",0,"Male",17,1,6,0,1.7
+"US0027","US",2,"US02","Amber",11,"4th jury member","10th voted out",0,"Female",23,1,4,0,2.09
+"US0028","US",2,"US02","Rodger",12,"5th jury member","11th voted out",0,"Male",34,1,6,0,2.83
+"US0029","US",2,"US02","Elisabeth",13,"6th jury member","12th voted out",0,"Female",57,1,6,0,4.38
+"US0030","US",2,"US02","Keith",14,"7th jury member","13th voted out",0,"Male",70,1,4,0,5
+"US0031","US",2,"US02","Colby",15,NA,"Runner-up",0,"Male",98,0,4,0,6.53
+"US0032","US",2,"US02","Tina",16,NA,"Sole Survivor",1,"Female",69,1,4,0,4.31
+"US0033","US",3,"US03","Diane",1,NA,"1st voted out",0,"Female",1,0,0,0,1
+"US0034","US",3,"US03","Jessie",2,NA,"2nd voted out",0,"Female",4,0,0,0,2
+"US0035","US",3,"US03","Carl",3,NA,"3rd voted out",0,"Male",9,0,3,0,3
+"US0036","US",3,"US03","Linda",4,NA,"4th voted out",0,"Female",9,0,4,0,2.25
+"US0037","US",3,"US03","Silas",5,NA,"5th voted out",0,"Male",19,0,5,0,3.8
+"US0038","US",3,"US03","Lindsey",6,NA,"6th voted out",0,"Female",33,0,6,0,5.5
+"US0039","US",3,"US03","Clarence",7,NA,"7th voted out",0,"Male",26,0,5,0,3.71
+"US0040","US",3,"US03","Kelly",8,"1st jury member","8th voted out",0,"Female",23,1,5,0,2.88
+"US0041","US",3,"US03","Brandon",9,"2nd jury member","9th voted out",0,"Male",29,1,6,0,3.22
+"US0042","US",3,"US03","Frank",10,"3rd jury member","10th voted out",0,"Male",40,1,6,0,4
+"US0043","US",3,"US03","Kim P.",11,"4th jury member","11th voted out",0,"Female",34,1,6,0,3.09
+"US0044","US",3,"US03","Teresa",12,"5th jury member","12th voted out",0,"Female",29,1,6,0,2.42
+"US0045","US",3,"US03","Tom",13,"6th jury member","13th voted out",0,"Male",58,1,5,0,4.46
+"US0046","US",3,"US03","Lex",14,"7th jury member","14th voted out",0,"Male",84,1,5,0,6
+"US0047","US",3,"US03","Kim J.",15,NA,"Runner-up",0,"Female",39,0,5,0,2.6
+"US0048","US",3,"US03","Ethan",16,NA,"Sole Survivor",1,"Male",68,1,5,0,4.25
+"US0049","US",4,"US04","Peter",1,NA,"1st voted out",0,"Male",4,0,0,0,4
+"US0050","US",4,"US04","Patricia",2,NA,"2nd voted out",0,"Female",6,0,0,0,3
+"US0051","US",4,"US04","Hunter",3,NA,"3rd voted out",0,"Male",13,0,0,0,4.33
+"US0052","US",4,"US04","Sarah",4,NA,"4th voted out",0,"Female",7,0,0,0,1.75
+"US0053","US",4,"US04","Gabriel",5,NA,"5th voted out",0,"Male",13,0,6,0,2.6
+"US0054","US",4,"US04","Gina",6,NA,"6th voted out",0,"Female",39,0,3,0,6.5
+"US0055","US",4,"US04","Boston Rob",7,NA,"7th voted out",0,"Male",32,0,2,0,4.57
+"US0056","US",4,"US04","John",8,"1st jury member","8th voted out",0,"Male",34,1,7,0,4.25
+"US0057","US",4,"US04","Zoe",9,"2nd jury member","9th voted out",0,"Female",6,1,7,0,0.67
+"US0058","US",4,"US04","Tammy",10,"3rd jury member","10th voted out",0,"Female",32,1,7,0,3.2
+"US0059","US",4,"US04","Robert",11,"4th jury member","11th voted out",0,"Male",28,1,7,0,2.55
+"US0060","US",4,"US04","Sean",12,"5th jury member","12th voted out",0,"Male",54,1,2,0,4.5
+"US0061","US",4,"US04","Paschal",13,"6th jury member","Eliminated",0,"Male",48,1,8,0,3.69
+"US0062","US",4,"US04","Kathy",14,"7th jury member","13th voted out",0,"Female",82,1,8,0,5.86
+"US0063","US",4,"US04","Neleh",15,NA,"Runner-up",0,"Female",39,0,8,0,2.6
+"US0064","US",4,"US04","Vecepia",16,NA,"Sole Survivor",1,"Female",36,1,2,0,2.25
+"US0065","US",5,"US05","John",1,NA,"1st voted out",0,"Male",8,0,0,0,8
+"US0066","US",5,"US05","Tanya",2,NA,"2nd voted out",0,"Female",4,0,0,0,2
+"US0067","US",5,"US05","Jed",3,NA,"3rd voted out",0,"Male",7,0,3,0,2.33
+"US0068","US",5,"US05","Ghandia",4,NA,"4th voted out",0,"Female",20,0,2,0,5
+"US0069","US",5,"US05","Stephanie",5,NA,"5th voted out",0,"Female",11,0,5,0,2.2
+"US0070","US",5,"US05","Robb",6,NA,"6th voted out",0,"Male",27,0,6,0,4.5
+"US0071","US",5,"US05","Shii Ann",7,NA,"7th voted out",0,"Female",33,0,6,0,4.71
+"US0072","US",5,"US05","Erin",8,"1st jury member","8th voted out",0,"Female",16,1,6,0,2
+"US0073","US",5,"US05","Ken",9,"2nd jury member","9th voted out",0,"Male",22,1,6,0,2.44
+"US0074","US",5,"US05","Penny",10,"3rd jury member","10th voted out",0,"Female",30,1,6,0,3
+"US0075","US",5,"US05","Jake",11,"4th jury member","11th voted out",0,"Male",41,1,6,0,3.73
+"US0076","US",5,"US05","Ted",12,"5th jury member","12th voted out",0,"Male",51,1,6,0,4.25
+"US0077","US",5,"US05","Helen",13,"6th jury member","13th voted out",0,"Female",64,1,6,0,4.92
+"US0078","US",5,"US05","Jan",14,"7th jury member","14th voted out",0,"Female",36,1,6,0,2.57
+"US0079","US",5,"US05","Clay",15,NA,"Runner-up",0,"Male",65,0,6,0,4.33
+"US0080","US",5,"US05","Brian",16,NA,"Sole Survivor",1,"Male",56,1,6,0,3.5
+"US0081","US",6,"US06","Ryan",1,NA,"1st voted out",0,"Male",4,0,0,0,4
+"US0082","US",6,"US06","Janet",2,NA,"2nd voted out",0,"Female",8,0,2,0,4
+"US0083","US",6,"US06","Daniel",3,NA,"3rd voted out",0,"Male",6,0,1,0,2
+"US0084","US",6,"US06","JoAnna",4,NA,"4th voted out",0,"Female",4,0,4,0,1
+"US0085","US",6,"US06","Jeanne",5,NA,"5th voted out",0,"Female",22,0,4,0,4.4
+"US0086","US",6,"US06","Shawna",6,NA,"6th voted out",0,"Female",19,0,5,0,3.17
+"US0087","US",6,"US06","Roger",7,NA,"7th voted out",0,"Male",14,0,5,0,2
+"US0088","US",6,"US06","Dave",8,"1st jury member","8th voted out",0,"Male",33,1,5,0,4.12
+"US0089","US",6,"US06","Deena",9,"2nd jury member","9th voted out",0,"Female",43,1,5,0,4.78
+"US0090","US",6,"US06","Alex",10,"3rd jury member","10th voted out",0,"Male",30,1,4,0,3
+"US0091","US",6,"US06","Christy",11,"4th jury member","11th voted out",0,"Female",28,1,6,0,2.55
+"US0092","US",6,"US06","Heidi",12,"5th jury member","12th voted out",0,"Female",39,1,6,0,3.25
+"US0093","US",6,"US06","Butch",13,"6th jury member","13th voted out",0,"Male",18,1,5,0,1.38
+"US0094","US",6,"US06","Rob",14,"7th jury member","14th voted out",0,"Male",101,1,4,0,7.21
+"US0095","US",6,"US06","Matthew",15,NA,"Runner-up",0,"Male",52,0,4,0,3.47
+"US0096","US",6,"US06","Jenna",16,NA,"Sole Survivor",1,"Female",61,1,5,0,3.81
+"US0097","US",7,"US07","Nicole",1,NA,"1st voted out",0,"Female",7,0,1,0,7
+"US0098","US",7,"US07","Ryan S.",2,NA,"2nd voted out",0,"Male",12,0,1,0,6
+"US0099","US",7,"US07","Lillian",3,NA,"3rd voted out",0,"Female",54,0,1,0,18
+"US0100","US",7,"US07","Burton",4,NA,"4th voted out",0,"Male",52,0,2,0,13
+"US0101","US",7,"US07","Michelle",5,NA,"5th voted out",0,"Female",10,0,2,0,2
+"US0102","US",7,"US07","Trish",6,NA,"6th voted out",0,"Female",13,0,2,0,2.17
+"US0103","US",7,"US07","Shawn",7,NA,"7th voted out",0,"Male",20,0,7,0,2.86
+"US0104","US",7,"US07","Osten",8,NA,"Quit",0,"Male",18,0,4,0,2.25
+"US0105","US",7,"US07","Andrew",9,NA,"8th voted out",0,"Male",50,0,4,0,5.56
+"US0106","US",7,"US07","Ryan O.",10,"1st jury member","9th voted out",0,"Male",18,1,4,0,1.8
+"US0107","US",7,"US07","Rupert",11,"2nd jury member","10th voted out",0,"Male",61,1,7,0,5.55
+"US0108","US",7,"US07","Tijuana",12,"3rd jury member","11th voted out",0,"Female",30,1,4,0,2.5
+"US0109","US",7,"US07","Christa",13,"4th jury member","12th voted out",0,"Female",32,1,7,0,2.46
+"US0100","US",7,"US07","Burton",14,"5th jury member","13th voted out",0,"Male",52,1,2,0,3.71
+"US0110","US",7,"US07","Darrah",15,"6th jury member","14th voted out",0,"Female",13,1,4,0,0.87
+"US0111","US",7,"US07","Jonny Fairplay",16,"7th jury member","15th voted out",0,"Male",58,1,7,0,3.62
+"US0099","US",7,"US07","Lillian",17,NA,"Runner-up",0,"Female",54,1,1,0,3.18
+"US0112","US",7,"US07","Sandra",18,NA,"Sole Survivor",1,"Female",55,1,7,0,3.06
+"US0032","US",8,"US08","Tina",1,NA,"1st voted out",0,"Female",2,0,0,0,2
+"US0014","US",8,"US08","Rudy",2,NA,"2nd voted out",0,"Male",4,0,1,0,2
+"US0096","US",8,"US08","Jenna M.",3,NA,"Quit",0,"Female",5,0,0,0,1.67
+"US0094","US",8,"US08","Rob C.",4,NA,"3rd voted out",0,"Male",12,0,4,0,3
+"US0016","US",8,"US08","Richard",5,NA,"4th voted out",0,"Male",21,0,5,0,4.2
+"US0013","US",8,"US08","Sue",6,NA,"Quit",0,"Female",7,0,6,0,1.17
+"US0031","US",8,"US08","Colby",7,NA,"5th voted out",0,"Male",21,0,6,0,3
+"US0048","US",8,"US08","Ethan",8,NA,"6th voted out",0,"Male",21,0,4,0,2.62
+"US0025","US",8,"US08","Jerri",9,NA,"7th voted out",0,"Female",33,0,4,0,3.67
+"US0046","US",8,"US08","Lex",10,"1st jury member","8th voted out",0,"Male",29,1,6,0,2.9
+"US0062","US",8,"US08","Kathy",11,"2nd jury member","9th voted out",0,"Female",31,1,6,0,2.82
+"US0024","US",8,"US08","Alicia",12,"3rd jury member","10th voted out",0,"Female",27,1,10,0,2.25
+"US0071","US",8,"US08","Shii Ann",13,"4th jury member","11th voted out",0,"Female",37,1,6,0,2.85
+"US0045","US",8,"US08","Tom",14,"5th jury member","12th voted out",0,"Male",32,1,10,0,2.29
+"US0107","US",8,"US08","Rupert",15,"6th jury member","13th voted out",0,"Male",58,1,8,0,3.87
+"US0009","US",8,"US08","Jenna L.",16,"7th jury member","14th voted out",0,"Female",40,1,11,0,2.5
+"US0055","US",8,"US08","Boston Rob",17,NA,"Runner-up",0,"Male",68,1,10,0,4
+"US0027","US",8,"US08","Amber",18,NA,"Sole Survivor",1,"Female",47,1,9,0,2.61
+"US0113","US",9,"US09","Brook",1,NA,"1st voted out",0,"Male",4,0,0,0,4
+"US0114","US",9,"US09","Dolly",2,NA,"2nd voted out",0,"Female",6,0,2,0,3
+"US0115","US",9,"US09","John P.",3,NA,"3rd voted out",0,"Male",7,0,2,0,2.33
+"US0116","US",9,"US09","Mia",4,NA,"4th voted out",0,"Female",8,0,2,0,2
+"US0117","US",9,"US09","Brady",5,NA,"5th voted out",0,"Male",10,0,2,0,2
+"US0118","US",9,"US09","Travis",6,NA,"6th voted out",0,"Male",12,0,2,0,2
+"US0119","US",9,"US09","Lisa",7,NA,"7th voted out",0,"Female",7,0,4,0,1
+"US0120","US",9,"US09","John K.",8,NA,"8th voted out",0,"Male",14,0,6,0,1.75
+"US0121","US",9,"US09","Rory",9,NA,"9th voted out",0,"Male",31,0,4,0,3.44
+"US0122","US",9,"US09","Lea",10,"1st jury member","10th voted out",0,"Male",31,1,7,0,3.1
+"US0123","US",9,"US09","Chad",11,"2nd jury member","11th voted out",0,"Male",15,1,7,0,1.36
+"US0124","US",9,"US09","Leann",12,"3rd jury member","12th voted out",0,"Female",22,1,6,0,1.83
+"US0125","US",9,"US09","Ami",13,"4th jury member","13th voted out",0,"Female",38,1,6,0,2.92
+"US0126","US",9,"US09","Julie",14,"5th jury member","14th voted out",0,"Female",25,1,9,0,1.79
+"US0127","US",9,"US09","Eliza",15,"6th jury member","15th voted out",0,"Female",54,1,6,0,3.6
+"US0128","US",9,"US09","Scout",16,"7th jury member","16th voted out",0,"Female",25,1,6,0,1.56
+"US0129","US",9,"US09","Twila",17,NA,"Runner-up",0,"Female",39,1,9,0,2.29
+"US0130","US",9,"US09","Chris",18,NA,"Sole Survivor",1,"Male",71,1,7,0,3.94
+"US0133","US",10,"US10","Jolanda",3,NA,"1st voted out",0,"Female",3,0,0,0,1
+"US0134","US",10,"US10","Ashlee",4,NA,"2nd voted out",0,"Female",2,0,1,0,0.5
+"US0135","US",10,"US10","Jeff",5,NA,"3rd voted out",0,"Male",10,0,2,0,2
+"US0136","US",10,"US10","Kim",6,NA,"4th voted out",0,"Female",10,0,2,0,1.67
+"US0137","US",10,"US10","Willard",7,NA,"5th voted out",0,"Male",5,0,6,0,0.71
+"US0138","US",10,"US10","Angie",8,NA,"6th voted out",0,"Female",15,0,2,0,1.88
+"US0139","US",10,"US10","James",9,NA,"7th voted out",0,"Male",19,0,3,0,2.11
+"US0140","US",10,"US10","Ibrehem",10,NA,"8th voted out",0,"Male",14,0,3,0,1.4
+"US0141","US",10,"US10","Bobby Jon",11,NA,"Eliminated",0,"Male",35,0,3,0,3.18
+"US0142","US",10,"US10","Coby",12,"1st jury member","9th voted out",0,"Male",24,1,11,0,2
+"US0143","US",10,"US10","Janu",13,"2nd jury member","Quit",0,"Female",15,1,11,0,1.15
+"US0144","US",10,"US10","Stephenie",14,"3rd jury member","10th voted out",0,"Female",63,1,3,0,4.5
+"US0145","US",10,"US10","Gregg",15,"4th jury member","11th voted out",0,"Male",29,1,11,0,1.93
+"US0146","US",10,"US10","Caryn",16,"5th jury member","12th voted out",0,"Female",24,1,11,0,1.5
+"US0147","US",10,"US10","Jenn",17,"6th jury member","13th voted out",0,"Female",13,1,11,0,0.76
+"US0148","US",10,"US10","Ian",18,"7th jury member","14th voted out",0,"Male",50,1,11,0,2.78
+"US0149","US",10,"US10","Katie",19,NA,"Runner-up",0,"Female",40,1,11,0,2.11
+"US0150","US",10,"US10","Tom",20,NA,"Sole Survivor",1,"Male",60,1,11,0,3
+"US0151","US",11,"US11","Jim",1,NA,"1st voted out",0,"Male",2,0,1,0,2
+"US0152","US",11,"US11","Morgan",2,NA,"2nd voted out",0,"Female",2,0,1,0,1
+"US0153","US",11,"US11","Brianna",3,NA,"3rd voted out",0,"Female",6,0,1,0,2
+"US0154","US",11,"US11","Brooke",4,NA,"4th voted out",0,"Female",4,0,4,0,1
+"US0155","US",11,"US11","Blake",5,NA,"5th voted out",0,"Male",5,0,6,0,1
+"US0156","US",11,"US11","Margaret",6,NA,"6th voted out",0,"Female",21,0,6,0,3.5
+"US0157","US",11,"US11","Brian",7,NA,"7th voted out",0,"Male",17,0,3,0,2.43
+"US0158","US",11,"US11","Amy",8,NA,"8th voted out",0,"Female",22,0,4,0,2.75
+"US0159","US",11,"US11","Brandon",9,NA,"9th voted out",0,"Male",28,0,7,0,3.11
+"US0141","US",11,"US11","Bobby Jon",10,"1st jury member","10th voted out",0,"Male",27,1,7,0,2.7
+"US0160","US",11,"US11","Jamie",11,"2nd jury member","11th voted out",0,"Male",16,1,4,0,1.45
+"US0161","US",11,"US11","Gary",12,"3rd jury member","12th voted out",0,"Male",37,1,4,1,3.08
+"US0162","US",11,"US11","Judd",13,"4th jury member","13th voted out",0,"Male",40,1,7,0,3.08
+"US0163","US",11,"US11","Cindy",14,"5th jury member","14th voted out",0,"Female",37,1,7,0,2.64
+"US0164","US",11,"US11","Lydia",15,"6th jury member","15th voted out",0,"Female",21,1,4,0,1.4
+"US0165","US",11,"US11","Rafe",16,"7th jury member","16th voted out",0,"Male",52,1,4,0,3.25
+"US0144","US",11,"US11","Stephenie",17,NA,"Runner-up",0,"Female",64,1,4,0,3.76
+"US0166","US",11,"US11","Danni",18,NA,"Sole Survivor",1,"Female",41,1,7,0,2.28
+"US0167","US",12,"US12","Tina",1,NA,"1st voted out",0,"Female",3,0,1,0,3
+"US0168","US",12,"US12","Melinda",2,NA,"2nd voted out",0,"Female",5,0,1,0,2.5
+"US0169","US",12,"US12","Misty",3,NA,"3rd voted out",0,"Female",5,0,4,0,1.67
+"US0170","US",12,"US12","Ruth Marie",4,NA,"4th voted out",0,"Female",4,0,4,0,1
+"US0171","US",12,"US12","Bobby",5,NA,"5th voted out",0,"Male",5,0,6,0,1
+"US0172","US",12,"US12","Dan",6,NA,"6th voted out",0,"Male",11,0,6,0,1.83
+"US0173","US",12,"US12","Nick",7,NA,"7th voted out",0,"Male",14,0,6,0,2
+"US0174","US",12,"US12","Austin",8,"1st jury member","8th voted out",0,"Male",33,1,6,0,4.12
+"US0175","US",12,"US12","Sally",9,"2nd jury member","9th voted out",0,"Female",31,1,5,0,3.44
+"US0176","US",12,"US12","Bruce",10,"3rd jury member","Medically evacuated",0,"Male",23,1,7,0,2.3
+"US0177","US",12,"US12","Courtney",11,"4th jury member","10th voted out",0,"Female",24,1,6,0,2.18
+"US0178","US",12,"US12","Shane",12,"5th jury member","11th voted out",0,"Male",38,1,7,0,3.17
+"US0179","US",12,"US12","Cirie",13,"6th jury member","12th voted out",0,"Female",61,1,6,0,4.69
+"US0180","US",12,"US12","Terry",14,"7th jury member","13th voted out",0,"Male",59,1,6,1,4.21
+"US0181","US",12,"US12","Danielle",15,NA,"Runner-up",0,"Female",39,0,6,0,2.6
+"US0182","US",12,"US12","Aras",16,NA,"Sole Survivor",1,"Male",44,1,7,0,2.75
+"US0183","US",13,"US13","Sekou",1,NA,"1st voted out",0,"Male",3,0,0,0,3
+"US0184","US",13,"US13","Billy",2,NA,"2nd voted out",0,"Male",6,0,1,0,3
+"US0185","US",13,"US13","Cecilia",3,NA,"3rd voted out",0,"Female",3,0,1,0,1
+"US0186","US",13,"US13","J.P.",4,NA,"4th voted out",0,"Male",7,0,2,0,1.75
+"US0187","US",13,"US13","Stephannie",5,NA,"5th voted out",0,"Female",13,0,3,0,2.6
+"US0188","US",13,"US13","Cao Boi",6,NA,"6th voted out",0,"Male",16,0,6,0,2.67
+"US0189","US",13,"US13","Cristina",7,NA,"7th voted out",0,"Female",9,0,3,0,1.29
+"US0190","US",13,"US13","Jessica",8,NA,"8th voted out",0,"Female",11,0,7,0,1.38
+"US0191","US",13,"US13","Brad",9,"1st jury member","9th voted out",0,"Male",7,1,5,0,0.78
+"US0192","US",13,"US13","Rebecca",10,"2nd jury member","10th voted out",0,"Female",6,1,4,0,0.6
+"US0193","US",13,"US13","Jenny",11,"3rd jury member","11th voted out",0,"Female",11,1,5,0,1
+"US0194","US",13,"US13","Nate",12,"4th jury member","12th voted out",0,"Male",29,1,4,0,2.42
+"US0195","US",13,"US13","Candice",13,"5th jury member","13th voted out",0,"Female",15,1,7,0,1.15
+"US0196","US",13,"US13","Jonathan",14,"6th jury member","14th voted out",0,"Male",49,1,7,0,3.5
+"US0197","US",13,"US13","Parvati",15,"7th jury member","15th voted out",0,"Female",25,1,5,0,1.67
+"US0198","US",13,"US13","Adam",16,"8th jury member","16th voted out",0,"Male",27,1,5,0,1.69
+"US0199","US",13,"US13","Sundra",17,"9th jury member","17th voted out",0,"Female",29,1,10,0,1.71
+"US0200","US",13,"US13","Becky",18,NA,"2nd Runner-up",0,"Female",15,1,11,0,0.83
+"US0201","US",13,"US13","Ozzy",19,NA,"Runner-up",0,"Male",46,1,10,0,2.42
+"US0202","US",13,"US13","Yul",20,NA,"Sole Survivor",1,"Male",45,1,11,1,2.25
+"US0203","US",14,"US14","Jessica",1,NA,"1st voted out",0,"Female",3,0,0,0,3
+"US0204","US",14,"US14","Erica",2,NA,"2nd voted out",0,"Female",7,0,0,0,3.5
+"US0205","US",14,"US14","Sylvia",3,NA,"3rd voted out",0,"Female",11,0,0,0,3.67
+"US0206","US",14,"US14","Gary",4,NA,"Quit",0,"Male",3,0,4,0,0.75
+"US0207","US",14,"US14","Liliana",5,NA,"4th voted out",0,"Female",2,0,6,0,0.4
+"US0208","US",14,"US14","Rita",6,NA,"5th voted out",0,"Female",5,0,0,0,0.83
+"US0209","US",14,"US14","Anthony",7,NA,"6th voted out",0,"Male",20,0,0,0,2.86
+"US0210","US",14,"US14","Rocky",8,"1st jury member","7th voted out",0,"Male",23,1,1,0,2.88
+"US0211","US",14,"US14","Lisi",9,"2nd jury member","8th voted out",0,"Female",24,1,9,0,2.67
+"US0212","US",14,"US14","Michelle",10,"3rd jury member","9th voted out",0,"Female",8,1,4,0,0.8
+"US0213","US",14,"US14","Edgardo",11,"4th jury member","10th voted out",0,"Male",18,1,9,0,1.64
+"US0214","US",14,"US14","Mookie",12,"5th jury member","11th voted out",0,"Male",25,1,1,1,2.08
+"US0215","US",14,"US14","Alex",13,"6th jury member","12th voted out",0,"Male",52,1,9,0,4
+"US0216","US",14,"US14","Stacy",14,"7th jury member","13th voted out",0,"Female",12,1,12,0,0.86
+"US0217","US",14,"US14","Boo",15,"8th jury member","14th voted out",0,"Male",20,1,12,0,1.33
+"US0218","US",14,"US14","Yau-Man",16,"9th jury member","15th voted out",0,"Male",46,1,4,1,2.88
+"US0219","US",14,"US14","Dreamz",17,NA,"Co-runner-up",0,"Male",44,1,9,0,2.59
+"US0220","US",14,"US14","Cassandra",18,NA,"Co-runner-up",0,"Female",22,1,12,0,1.22
+"US0221","US",14,"US14","Earl",19,NA,"Sole Survivor",1,"Male",59,1,4,1,3.11
+"US0222","US",15,"US15","Chicken",1,NA,"1st voted out",0,"Male",5,0,0,0,5
+"US0223","US",15,"US15","Ashley",2,NA,"2nd voted out",0,"Female",6,0,0,0,3
+"US0224","US",15,"US15","Leslie",3,NA,"3rd voted out",0,"Female",16,0,3,0,5.33
+"US0225","US",15,"US15","Dave",4,NA,"4th voted out",0,"Male",16,0,2,0,4
+"US0226","US",15,"US15","Aaron",5,NA,"5th voted out",0,"Male",10,0,5,0,2
+"US0227","US",15,"US15","Sherea",6,NA,"6th voted out",0,"Female",12,0,4,0,2
+"US0228","US",15,"US15","Jaime",7,"1st jury member","7th voted out",0,"Female",19,1,3,0,2.71
+"US0229","US",15,"US15","Jean-Robert",8,"2nd jury member","8th voted out",0,"Male",19,1,7,0,2.38
+"US0230","US",15,"US15","Frosti",9,"3rd jury member","9th voted out",0,"Male",17,1,4,0,1.89
+"US0231","US",15,"US15","James",10,"4th jury member","10th voted out",0,"Male",31,1,6,1,3.1
+"US0232","US",15,"US15","Erik",11,"5th jury member","11th voted out",0,"Male",21,1,3,0,1.91
+"US0233","US",15,"US15","Peih-Gee",12,"6th jury member","12th voted out",0,"Female",43,1,3,0,3.58
+"US0234","US",15,"US15","Denise",13,"7th jury member","13th voted out",0,"Female",33,1,7,0,2.54
+"US0235","US",15,"US15","Amanda",14,NA,"2nd runner-up",0,"Female",40,0,7,0,2.86
+"US0236","US",15,"US15","Courtney",15,NA,"Runner-up",0,"Female",23,0,7,0,1.53
+"US0237","US",15,"US15","Todd",16,NA,"Sole Survivor",1,"Male",60,1,7,1,3.75
+"US0111","US",16,"US16","Jonny Fairplay",1,NA,"1st voted out",0,"Male",8,0,0,0,8
+"US0238","US",16,"US16","Mary",2,NA,"2nd voted out",0,"Female",2,0,1,0,1
+"US0218","US",16,"US16","Yau-Man",3,NA,"3rd voted out",0,"Male",3,0,2,0,1
+"US0239","US",16,"US16","Mikey B",4,NA,"4th voted out",0,"Male",9,0,2,0,2.25
+"US0240","US",16,"US16","Joel",5,NA,"5th voted out",0,"Male",14,0,2,0,2.8
+"US0196","US",16,"US16","Jonathan",6,NA,"Medically evacuated",0,"Male",14,0,6,0,2.33
+"US0241","US",16,"US16","Chet",7,NA,"6th voted out",0,"Male",3,0,2,0,0.43
+"US0242","US",16,"US16","Kathy",8,NA,"Quit",0,"Female",18,0,6,0,2.25
+"US0243","US",16,"US16","Tracy",9,NA,"7th voted out",0,"Female",11,0,3,0,1.22
+"US0125","US",16,"US16","Ami",10,NA,"8th voted out",0,"Female",13,0,5,0,1.3
+"US0127","US",16,"US16","Eliza",11,"1st jury member","9th voted out",0,"Female",22,1,10,0,2
+"US0201","US",16,"US16","Ozzy",12,"2nd jury member","10th voted out",0,"Male",31,1,5,1,2.58
+"US0244","US",16,"US16","Jason",13,"3rd jury member","11th voted out",0,"Male",21,1,8,1,1.62
+"US0231","US",16,"US16","James",14,"4th jury member","Medically evacuated",0,"Male",18,1,10,0,1.29
+"US0245","US",16,"US16","Alexis",15,"5th jury member","12th voted out",0,"Female",16,1,8,0,1.07
+"US0246","US",16,"US16","Erik",16,"6th jury member","13th voted out",0,"Male",39,1,3,0,2.44
+"US0247","US",16,"US16","Natalie",17,"7th jury member","14th voted out",0,"Female",17,1,8,0,1
+"US0179","US",16,"US16","Cirie",18,"8th jury member","15th voted out",0,"Female",52,1,5,0,2.89
+"US0235","US",16,"US16","Amanda",19,NA,"Runner-up",0,"Female",33,1,5,1,1.74
+"US0197","US",16,"US16","Parvati",20,NA,"Sole Survivor",1,"Female",32,1,10,0,1.6
+"US0248","US",17,"US17","Michelle",1,NA,"1st voted out",0,"Female",3,0,0,0,3
+"US0249","US",17,"US17","Gillian",2,NA,"2nd voted out",0,"Female",7,0,0,0,3.5
+"US0250","US",17,"US17","Paloma",3,NA,"3rd voted out",0,"Female",4,0,3,0,1.33
+"US0251","US",17,"US17","Jacquie",4,NA,"4th voted out",0,"Female",3,0,3,0,0.75
+"US0252","US",17,"US17","GC",5,NA,"5th voted out",0,"Male",20,0,2,0,4
+"US0253","US",17,"US17","Kelly",6,NA,"6th voted out",0,"Female",4,0,3,0,0.67
+"US0254","US",17,"US17","Ace",7,NA,"7th voted out",0,"Male",22,0,3,0,3.14
+"US0255","US",17,"US17","Dan",8,NA,"8th voted out",0,"Male",11,0,8,0,1.38
+"US0256","US",17,"US17","Marcus",9,"1st jury member","9th voted out",0,"Male",27,1,9,1,3
+"US0257","US",17,"US17","Charlie",10,"2nd jury member","10th voted out",0,"Male",15,1,10,0,1.5
+"US0258","US",17,"US17","Randy",11,"3rd jury member","11th voted out",0,"Male",47,1,9,0,4.27
+"US0259","US",17,"US17","Corinne",12,"4th jury member","12th voted out",0,"Female",27,1,10,0,2.25
+"US0260","US",17,"US17","Crystal",13,"5th jury member","13th voted out",0,"Female",34,1,2,0,2.62
+"US0261","US",17,"US17","Ken",14,"6th jury member","14th voted out",0,"Male",44,1,2,0,3.14
+"US0262","US",17,"US17","Matty",15,"7th jury member","15th voted out",0,"Male",39,1,3,0,2.6
+"US0263","US",17,"US17","Sugar",16,NA,"2nd runner-up",0,"Female",51,1,4,1,3.19
+"US0264","US",17,"US17","Susie",17,NA,"Runner-up",0,"Female",25,1,8,0,1.47
+"US0265","US",17,"US17","Bob",18,NA,"Sole Survivor",1,"Male",31,1,9,0,1.72
+"US0266","US",18,"US18","Carolina",1,NA,"1st voted out",0,"Female",4,0,0,0,4
+"US0267","US",18,"US18","Candace",2,NA,"2nd voted out",0,"Female",5,0,1,0,2.5
+"US0268","US",18,"US18","Jerry",3,NA,"3rd voted out",0,"Male",4,0,1,0,1.33
+"US0269","US",18,"US18","Sandy",4,NA,"4th voted out",0,"Female",7,0,4,0,1.75
+"US0270","US",18,"US18","Spencer",5,NA,"5th voted out",0,"Male",17,0,5,0,3.4
+"US0271","US",18,"US18","Sydney",6,NA,"6th voted out",0,"Female",7,0,5,0,1.17
+"US0272","US",18,"US18","Joe",7,NA,"Medically evacuated",0,"Male",15,0,5,0,2.14
+"US0273","US",18,"US18","Brendan",8,"1st jury member","7th voted out",0,"Male",34,1,5,1,4.25
+"US0274","US",18,"US18","Tyson",9,"2nd jury member","8th voted out",0,"Male",22,1,5,0,2.44
+"US0275","US",18,"US18","Sierra",10,"3rd jury member","9th voted out",0,"Female",23,1,5,0,2.3
+"US0276","US",18,"US18","Debbie",11,"4th jury member","10th voted out",0,"Female",14,1,5,0,1.27
+"US0277","US",18,"US18","Coach",12,"5th jury member","11th voted out",0,"Male",58,1,5,0,4.83
+"US0278","US",18,"US18","Taj",13,"6th jury member","12th voted out",0,"Female",32,1,5,1,2.46
+"US0279","US",18,"US18","Erinn",14,"7th jury member","13th voted out",0,"Female",30,1,5,0,2.14
+"US0280","US",18,"US18","Stephen",15,NA,"Runner-up",0,"Male",61,0,5,0,4.07
+"US0281","US",18,"US18","J.T.",16,NA,"Sole Survivor",1,"Male",71,1,5,0,4.44
+"US0282","US",19,"US19","Marisa",1,NA,"1st voted out",0,"Female",3,0,1,0,3
+"US0283","US",19,"US19","Mike",2,NA,"Medically evacuated",0,"Male",5,0,1,0,2.5
+"US0284","US",19,"US19","Betsy",3,NA,"2nd voted out",0,"Female",5,0,1,0,1.67
+"US0285","US",19,"US19","Ben",4,NA,"3rd voted out",0,"Male",5,0,1,0,1.25
+"US0286","US",19,"US19","Yasmin",5,NA,"4th voted out",0,"Female",3,0,5,0,0.6
+"US0287","US",19,"US19","Ashley",6,NA,"5th voted out",0,"Female",9,0,2,0,1.5
+"US0288","US",19,"US19","Russell S.",7,NA,"Medically evacuated",0,"Male",17,0,7,0,2.43
+"US0289","US",19,"US19","Liz",8,NA,"6th voted out",0,"Female",10,0,2,0,1.25
+"US0290","US",19,"US19","Erik",9,"1st jury member","7th voted out",0,"Male",18,1,9,1,2
+"US0291","US",19,"US19","Kelly",10,"2nd jury member","8th voted out",0,"Female",8,1,9,0,0.8
+"US0292","US",19,"US19","Laura",11,"3rd jury member","9th voted out",0,"Female",16,1,9,0,1.45
+"US0293","US",19,"US19","John",12,"4th jury member","10th voted out",0,"Male",20,1,9,0,1.67
+"US0294","US",19,"US19","Dave",13,"5th jury member","11th voted out",0,"Male",16,1,9,0,1.23
+"US0295","US",19,"US19","Monica",14,"6th jury member","12th voted out",0,"Female",15,1,9,0,1.07
+"US0296","US",19,"US19","Shambo",15,"7th jury member","13th voted out",0,"Female",39,1,9,0,2.6
+"US0297","US",19,"US19","Jaison",16,"8th jury member","14th voted out",0,"Male",33,1,2,0,2.06
+"US0298","US",19,"US19","Brett",17,"9th jury member","15th voted out",0,"Male",17,1,9,0,1
+"US0299","US",19,"US19","Mick",18,NA,"2nd runner-up",0,"Male",29,1,2,0,1.61
+"US0300","US",19,"US19","Russell H.",19,NA,"Runner-up",0,"Male",108,1,2,3,5.68
+"US0301","US",19,"US19","Natalie",20,NA,"Sole Survivor",1,"Female",15,1,2,0,0.75
+"US0263","US",20,"US20","Sugar",1,NA,"1st voted out",0,"Female",2,0,1,0,2
+"US0144","US",20,"US20","Stephenie",2,NA,"2nd voted out",0,"Female",6,0,1,0,3
+"US0258","US",20,"US20","Randy",3,NA,"3rd voted out",0,"Male",5,0,2,0,1.67
+"US0179","US",20,"US20","Cirie",4,NA,"4th voted out",0,"Female",7,0,2,0,1.75
+"US0150","US",20,"US20","Tom",5,NA,"5th voted out",0,"Male",17,0,2,1,3.4
+"US0274","US",20,"US20","Tyson",6,NA,"6th voted out",0,"Male",6,0,6,0,1
+"US0231","US",20,"US20","James",7,NA,"7th voted out",0,"Male",8,0,2,0,1.14
+"US0055","US",20,"US20","Boston Rob",8,NA,"8th voted out",0,"Male",20,0,6,0,2.5
+"US0277","US",20,"US20","Coach",9,"1st jury member","9th voted out",0,"Male",32,1,6,0,3.56
+"US0236","US",20,"US20","Courtney",10,"2nd jury member","10th voted out",0,"Female",4,1,7,0,0.4
+"US0281","US",20,"US20","J.T.",11,"3rd jury member","11th voted out",0,"Male",28,1,7,1,2.55
+"US0235","US",20,"US20","Amanda",12,"4th jury member","12th voted out",0,"Female",23,1,7,0,1.92
+"US0195","US",20,"US20","Candice",13,"5th jury member","13th voted out",0,"Female",12,1,7,0,0.92
+"US0181","US",20,"US20","Danielle",14,"6th jury member","14th voted out",0,"Female",8,1,7,0,0.57
+"US0107","US",20,"US20","Rupert",15,"7th jury member","15th voted out",0,"Male",38,1,7,0,2.53
+"US0031","US",20,"US20","Colby",16,"8th jury member","16th voted out",0,"Male",24,1,7,0,1.5
+"US0025","US",20,"US20","Jerri",17,"9th jury member","17th voted out",0,"Female",21,1,7,0,1.24
+"US0300","US",20,"US20","Russell",18,NA,"2nd Runner-up",0,"Male",68,1,7,2,3.78
+"US0197","US",20,"US20","Parvati",19,NA,"Runner-up",0,"Female",40,1,7,1,2.11
+"US0112","US",20,"US20","Sandra",20,NA,"Sole Survivor",1,"Female",27,1,7,1,1.35
+"US0302","US",21,"US21","Wendy",1,NA,"1st voted out",0,"Female",2,0,0,0,2
+"US0303","US",21,"US21","Shannon",2,NA,"2nd voted out",0,"Male",9,0,2,0,4.5
+"US0304","US",21,"US21","Jimmy J.",3,NA,"3rd voted out",0,"Male",12,0,1,0,4
+"US0305","US",21,"US21","Jimmy T.",4,NA,"4th voted out",0,"Male",11,0,1,0,2.75
+"US0306","US",21,"US21","Tyrone",5,NA,"5th voted out",0,"Male",8,0,2,0,1.6
+"US0307","US",21,"US21","Kelly B.",6,NA,"6th voted out",0,"Female",7,0,6,0,1.17
+"US0308","US",21,"US21","Yve",7,NA,"7th voted out",0,"Female",6,0,2,0,0.86
+"US0309","US",21,"US21","Jill",8,NA,"8th voted out",0,"Female",14,0,3,0,1.75
+"US0310","US",21,"US21","Alina",9,"1st jury member","9th voted out",0,"Female",18,1,7,0,2
+"US0311","US",21,"US21","Marty",10,"2nd jury member","10th voted out",0,"Male",42,1,3,1,4.2
+"US0312","US",21,"US21","Brenda",11,"3rd jury member","11th voted out",0,"Female",27,1,6,0,2.45
+"US0313","US",21,"US21","NaOnka",12,"4th jury member","Quit",0,"Female",50,1,7,1,4.17
+"US0314","US",21,"US21","Purple Kelly",13,"5th jury member","Quit",0,"Female",5,1,6,0,0.38
+"US0315","US",21,"US21","Benry",14,"6th jury member","12th voted out",0,"Male",20,1,7,0,1.43
+"US0316","US",21,"US21","Jane",15,"7th jury member","13th voted out",0,"Female",33,1,3,0,2.2
+"US0317","US",21,"US21","Dan",16,"8th jury member","14th voted out",0,"Male",13,1,4,0,0.81
+"US0318","US",21,"US21","Holly",17,"9th jury member","15th voted out",0,"Female",32,1,4,0,1.88
+"US0319","US",21,"US21","Sash",18,NA,"2nd runner-up",0,"Male",31,1,6,0,1.72
+"US0320","US",21,"US21","Chase",19,NA,"Runner-up",0,"Male",36,1,7,0,1.89
+"US0321","US",21,"US21","Fabio",20,NA,"Sole Survivor",1,"Male",40,1,6,0,2
+"US0322","US",22,"US22","Francesca",1,NA,"1st voted out",0,"Female",12,0,0,0,12
+"US0323","US",22,"US22","Matt",2,NA,"2nd voted out",0,"Male",32,0,0,0,16
+"US0300","US",22,"US22","Russell",3,NA,"3rd voted out",0,"Male",16,0,2,0,5.33
+"US0324","US",22,"US22","Kristina",4,NA,"4th voted out",0,"Female",13,0,1,1,3.25
+"US0325","US",22,"US22","Krista",5,NA,"5th voted out",0,"Female",6,0,3,0,1.2
+"US0326","US",22,"US22","Stephanie",6,NA,"6th voted out",0,"Female",15,0,3,0,2.5
+"US0327","US",22,"US22","Sarita",7,NA,"7th voted out",0,"Female",11,0,3,0,1.57
+"US0323","US",22,"US22","Matt",8,"6th jury member","8th voted out",0,"Male",32,1,0,0,4
+"US0328","US",22,"US22","Mike",9,"7th jury member","9th voted out",0,"Male",27,1,3,0,3
+"US0329","US",22,"US22","David",10,"1st jury member","10th voted out",0,"Male",18,1,3,0,1.8
+"US0330","US",22,"US22","Julie",11,"2nd jury member","11th voted out",0,"Female",17,1,3,0,1.55
+"US0331","US",22,"US22","Ralph",12,"4th jury member","12th voted out",0,"Male",20,1,3,1,1.67
+"US0332","US",22,"US22","Steve",13,"3rd jury member","13th voted out",0,"Male",23,1,3,0,1.77
+"US0333","US",22,"US22","Andrea",14,NA,"14th voted out",0,"Female",24,0,4,0,1.71
+"US0334","US",22,"US22","Grant",15,"5th jury member","15th voted out",0,"Male",15,1,4,0,1
+"US0333","US",22,"US22","Andrea",16,"8th jury member","16th voted out",0,"Female",24,1,4,0,1.5
+"US0335","US",22,"US22","Ashley",17,"9th jury member","17th voted out",0,"Female",23,1,4,0,1.35
+"US0336","US",22,"US22","Natalie",18,NA,"2nd runner-up",0,"Female",14,1,4,0,0.78
+"US0337","US",22,"US22","Phillip",19,NA,"Runner-up",0,"Male",41,1,4,0,2.16
+"US0055","US",22,"US22","Boston Rob",20,NA,"Sole Survivor",1,"Male",97,1,4,1,4.85
+"US0338","US",23,"US23","Semhar",1,NA,"1st voted out",0,"Female",5,0,1,0,5
+"US0339","US",23,"US23","Christine",2,NA,"2nd voted out",0,"Female",13,0,1,0,6.5
+"US0340","US",23,"US23","Papa Bear",3,NA,"3rd voted out",0,"Male",5,0,2,0,1.67
+"US0341","US",23,"US23","Stacey",4,NA,"4th voted out",0,"Female",9,0,2,0,2.25
+"US0342","US",23,"US23","Elyse",5,NA,"5th voted out",0,"Female",5,0,3,0,1
+"US0343","US",23,"US23","Mikayla",6,NA,"6th voted out",0,"Female",10,0,3,0,1.67
+"US0201","US",23,"US23","Ozzy",7,NA,"7th voted out",0,"Male",48,0,4,1,6.86
+"US0344","US",23,"US23","Keith",8,"2nd jury member","8th voted out",0,"Male",7,1,4,0,0.88
+"US0201","US",23,"US23","Ozzy",9,NA,"9th voted out",0,"Male",48,0,4,1,5.33
+"US0345","US",23,"US23","Jim",10,"1st jury member","10th voted out",0,"Male",25,1,4,0,2.5
+"US0346","US",23,"US23","Dawn",11,"3rd jury member","11th voted out",0,"Female",23,1,4,0,2.09
+"US0347","US",23,"US23","Whitney",12,"4th jury member","12th voted out",0,"Female",4,1,4,0,0.33
+"US0348","US",23,"US23","Cochran",13,"5th jury member","13th voted out",0,"Male",61,1,4,0,4.69
+"US0349","US",23,"US23","Edna",14,"6th jury member","14th voted out",0,"Female",18,1,4,0,1.29
+"US0350","US",23,"US23","Brandon",15,"7th jury member","15th voted out",0,"Male",31,1,4,0,2.07
+"US0351","US",23,"US23","Rick",16,"8th jury member","16th voted out",0,"Male",8,1,4,0,0.5
+"US0201","US",23,"US23","Ozzy",17,"9th jury member","17th voted out",0,"Male",48,1,4,1,2.82
+"US0352","US",23,"US23","Albert",18,NA,"2nd runner-up",0,"Male",25,1,4,0,1.39
+"US0277","US",23,"US23","Coach",19,NA,"Runner-up",0,"Male",78,1,4,1,4.11
+"US0353","US",23,"US23","Sophie",20,NA,"Sole Survivor",1,"Female",25,1,4,0,1.25
+"US0354","US",24,"US24","Kourtney",1,NA,"Medically evacuated",0,"Female",2,0,0,0,2
+"US0355","US",24,"US24","Nina",2,NA,"1st voted out",0,"Female",6,0,0,0,3
+"US0356","US",24,"US24","Matt",3,NA,"2nd voted out",0,"Male",8,0,3,0,2.67
+"US0357","US",24,"US24","Bill",4,NA,"3rd voted out",0,"Male",7,0,4,0,1.75
+"US0358","US",24,"US24","Monica",5,NA,"4th voted out",0,"Female",6,0,3,0,1.2
+"US0359","US",24,"US24","Colton",6,NA,"Medically evacuated",0,"Male",29,0,4,0,4.83
+"US0360","US",24,"US24","Jonas",7,"1st jury member","5th voted out",0,"Male",17,1,4,0,2.43
+"US0361","US",24,"US24","Michael",8,"2nd jury member","6th voted out",0,"Male",12,1,7,0,1.5
+"US0362","US",24,"US24","Jay",9,"3rd jury member","7th voted out",0,"Male",19,1,7,0,2.11
+"US0363","US",24,"US24","Leif",10,"4th jury member","8th voted out",0,"Male",4,1,4,0,0.4
+"US0364","US",24,"US24","Troyzan",11,"5th jury member","9th voted out",0,"Male",49,1,7,1,4.45
+"US0365","US",24,"US24","Kat",12,"6th jury member","10th voted out",0,"Female",15,1,6,0,1.25
+"US0366","US",24,"US24","Tarzan",13,"7th jury member","11th voted out",0,"Male",18,1,4,0,1.38
+"US0367","US",24,"US24","Alicia",14,"8th jury member","12th voted out",0,"Female",41,1,3,0,2.93
+"US0368","US",24,"US24","Christina",15,"9th jury member","13th voted out",0,"Female",16,1,3,0,1.07
+"US0369","US",24,"US24","Chelsea",16,NA,"2nd runner-up",0,"Female",38,1,6,0,2.38
+"US0370","US",24,"US24","Sabrina",17,NA,"Runner-up",0,"Female",42,1,6,1,2.47
+"US0371","US",24,"US24","Kim",18,NA,"Sole Survivor",1,"Female",53,1,6,1,2.94
+"US0372","US",25,"US25","Zane",1,NA,"1st voted out",0,"Male",9,0,0,0,9
+"US0373","US",25,"US25","Roxy",2,NA,"2nd voted out",0,"Female",7,0,0,0,3.5
+"US0374","US",25,"US25","Angie",3,NA,"3rd voted out",0,"Female",9,0,0,0,3
+"US0288","US",25,"US25","Russell",4,NA,"4th voted out",0,"Male",21,0,0,0,5.25
+"US0375","US",25,"US25","Dana",5,NA,"Quit",0,"Female",6,0,2,0,1.2
+"US0376","US",25,"US25","Dawson",6,NA,"5th voted out",0,"Female",6,0,2,0,1
+"US0377","US",25,"US25","Katie",7,NA,"6th voted out",0,"Female",11,0,3,0,1.57
+"US0378","US",25,"US25","RC",8,"1st jury member","7th voted out",0,"Female",21,1,7,0,2.62
+"US0379","US",25,"US25","Jeff",9,"2nd jury member","8th voted out",0,"Male",28,1,3,0,3.11
+"US0380","US",25,"US25","Artis",10,"3rd jury member","9th voted out",0,"Male",8,1,7,0,0.8
+"US0381","US",25,"US25","Pete",11,"4th jury member","10th voted out",0,"Male",21,1,7,0,1.91
+"US0196","US",25,"US25","Jonathan",12,"5th jury member","11th voted out",0,"Male",49,1,3,1,4.08
+"US0382","US",25,"US25","Carter",13,"6th jury member","12th voted out",0,"Male",8,1,3,0,0.62
+"US0383","US",25,"US25","Abi-Maria",14,"7th jury member","13th voted out",0,"Female",30,1,7,1,2.14
+"US0384","US",25,"US25","Malcolm",15,"8th jury member","14th voted out",0,"Male",66,1,3,1,4.4
+"US0385","US",25,"US25","Lisa",16,NA,"Co-runner-up",0,"Female",58,1,7,0,3.62
+"US0022","US",25,"US25","Michael",17,NA,"Co-runner-up",0,"Male",40,1,7,0,2.35
+"US0386","US",25,"US25","Denise",18,NA,"Sole Survivor",1,"Female",37,1,1,0,2.06
+"US0322","US",26,"US26","Francesca",1,NA,"1st voted out",0,"Female",9,0,1,0,9
+"US0387","US",26,"US26","Allie",2,NA,"2nd voted out",0,"Female",3,0,1,0,1.5
+"US0388","US",26,"US26","Hope",3,NA,"3rd voted out",0,"Female",1,0,1,0,0.33
+"US0389","US",26,"US26","Shamar",4,NA,"Medically evacuated",0,"Male",12,0,1,0,3
+"US0390","US",26,"US26","Laura",5,NA,"4th voted out",0,"Female",12,0,1,0,2.4
+"US0350","US",26,"US26","Brandon",6,NA,"5th voted out",0,"Male",14,0,6,0,2.33
+"US0391","US",26,"US26","Matt",7,NA,"6th voted out",0,"Male",13,0,2,0,1.86
+"US0392","US",26,"US26","Julia",8,NA,"7th voted out",0,"Female",4,0,2,0,0.5
+"US0259","US",26,"US26","Corinne",9,NA,"8th voted out",0,"Female",22,0,6,0,2.44
+"US0393","US",26,"US26","Michael",10,"1st jury member","9th voted out",0,"Male",14,1,2,0,1.4
+"US0337","US",26,"US26","Phillip",11,"2nd jury member","10th voted out",0,"Male",33,1,6,0,3
+"US0384","US",26,"US26","Malcolm",12,"3rd jury member","11th voted out",0,"Male",35,1,9,2,2.92
+"US0394","US",26,"US26","Reynold",13,"4th jury member","12th voted out",0,"Male",40,1,5,2,3.08
+"US0333","US",26,"US26","Andrea",14,"5th jury member","13th voted out",0,"Female",25,1,9,0,1.79
+"US0312","US",26,"US26","Brenda",15,"6th jury member","14th voted out",0,"Female",13,1,9,0,0.87
+"US0246","US",26,"US26","Erik",16,"7th jury member","Medically evacuated",0,"Male",15,1,9,1,0.94
+"US0395","US",26,"US26","Eddie",17,"8th jury member","15th voted out",0,"Male",25,1,5,0,1.47
+"US0396","US",26,"US26","Sherri",18,NA,"Co-runner-up",0,"Female",21,1,5,0,1.17
+"US0346","US",26,"US26","Dawn",19,NA,"Co-runner-up",0,"Female",35,1,6,0,1.84
+"US0348","US",26,"US26","Cochran",20,NA,"Sole Survivor",1,"Male",67,1,6,0,3.35
+"US0397","US",27,"US27","Laura B.",1,NA,"1st voted out",0,"Female",17,0,3,0,17
+"US0195","US",27,"US27","Candice",2,NA,"2nd voted out",0,"Female",8,0,0,0,4
+"US0107","US",27,"US27","Rupert",3,NA,"Switched",0,"Male",7,0,0,0,2.33
+"US0398","US",27,"US27","Marissa",4,NA,"3rd voted out",0,"Female",5,0,0,0,1.25
+"US0399","US",27,"US27","Rachel",5,NA,"4th voted out",0,"Female",5,0,0,0,1
+"US0359","US",27,"US27","Colton",6,NA,"Quit",0,"Male",15,0,2,0,2.5
+"US0400","US",27,"US27","John",7,NA,"5th voted out",0,"Male",20,0,0,0,2.86
+"US0401","US",27,"US27","Brad",8,NA,"6th voted out",0,"Male",20,0,0,0,2.5
+"US0292","US",27,"US27","Laura M.",9,NA,"7th voted out",0,"Female",20,0,4,0,2.22
+"US0365","US",27,"US27","Kat",10,NA,"8th voted out",0,"Female",10,0,4,0,1
+"US0397","US",27,"US27","Laura B.",11,NA,"9th voted out",0,"Female",17,0,3,0,1.55
+"US0182","US",27,"US27","Aras",12,"1st jury member","10th voted out",0,"Male",20,1,6,0,1.67
+"US0402","US",27,"US27","Vytas",13,"2nd jury member","11th voted out",0,"Male",35,1,1,0,2.69
+"US0032","US",27,"US27","Tina",14,NA,"12th voted out",0,"Female",25,0,4,0,1.79
+"US0292","US",27,"US27","Laura M.",15,"6th jury member","13th voted out",0,"Female",20,1,4,0,1.33
+"US0403","US",27,"US27","Caleb",16,"3rd jury member","14th voted out",0,"Male",16,1,3,0,1
+"US0404","US",27,"US27","Katie",17,"4th jury member","Eliminated",0,"Female",21,1,1,0,1.24
+"US0405","US",27,"US27","Hayden",18,"5th jury member","15th voted out",0,"Male",35,1,3,0,1.94
+"US0406","US",27,"US27","Ciera",19,"7th jury member","16th voted out",0,"Female",46,1,3,0,2.42
+"US0032","US",27,"US27","Tina",20,"8th jury member","17th voted out",0,"Female",25,1,4,0,1.25
+"US0010","US",27,"US27","Gervase",21,NA,"2nd runner-up",0,"Male",25,1,6,0,1.19
+"US0358","US",27,"US27","Monica",22,NA,"Runner-up",0,"Female",34,1,4,0,1.55
+"US0274","US",27,"US27","Tyson",23,NA,"Sole Survivor",1,"Male",48,1,6,2,2.09
+"US0407","US",28,"US28","David",1,NA,"1st voted out",0,"Male",4,0,0,0,4
+"US0408","US",28,"US28","Garrett",2,NA,"2nd voted out",0,"Male",11,0,0,1,5.5
+"US0409","US",28,"US28","Brice",3,NA,"3rd voted out",0,"Male",6,0,1,0,2
+"US0410","US",28,"US28","J'Tia",4,NA,"4th voted out",0,"Female",9,0,1,0,2.25
+"US0411","US",28,"US28","Cliff",5,NA,"5th voted out",0,"Male",9,0,6,0,1.8
+"US0412","US",28,"US28","Lindsey",6,NA,"Quit",0,"Female",6,0,6,0,1
+"US0413","US",28,"US28","Alexis",7,NA,"6th voted out",0,"Female",12,0,3,0,1.71
+"US0414","US",28,"US28","Sarah",8,"1st jury member","7th voted out",0,"Female",26,1,4,0,3.25
+"US0415","US",28,"US28","Morgan",9,"2nd jury member","8th voted out",0,"Female",15,1,3,0,1.67
+"US0416","US",28,"US28","LJ",10,"3rd jury member","9th voted out",0,"Male",23,1,7,1,2.3
+"US0417","US",28,"US28","Jeremiah",11,"4th jury member","10th voted out",0,"Male",12,1,3,0,1.09
+"US0418","US",28,"US28","Jefra",12,"5th jury member","11th voted out",0,"Male",16,1,7,0,1.33
+"US0419","US",28,"US28","Tasha",13,"6th jury member","12th voted out",0,"Female",28,1,1,0,2.15
+"US0420","US",28,"US28","Trish",14,"7th jury member","13th voted out",0,"Male",22,1,8,0,1.57
+"US0421","US",28,"US28","Spencer",15,"8th jury member","14th voted out",0,"Male",67,1,1,1,4.47
+"US0422","US",28,"US28","Kass",16,"9th jury member","15th voted out",0,"Female",62,1,1,0,3.88
+"US0423","US",28,"US28","Woo",17,NA,"Runner-up",0,"Male",36,1,8,0,2.12
+"US0424","US",28,"US28","Tony",18,NA,"Sole Survivor",1,"Male",97,1,8,3,5.39
+"US0425","US",29,"US29","Nadiya",1,NA,"1st voted out",0,"Female",4,0,0,0,4
+"US0426","US",29,"US29","Val",2,NA,"2nd voted out",0,"Female",7,0,0,0,3.5
+"US0427","US",29,"US29","John",3,NA,"3rd voted out",0,"Male",11,0,0,1,3.67
+"US0428","US",29,"US29","Drew",4,NA,"4th voted out",0,"Male",13,0,6,0,3.25
+"US0429","US",29,"US29","Kelley",5,NA,"5th voted out",0,"Female",6,0,6,0,1.2
+"US0430","US",29,"US29","Dale",6,NA,"6th voted out",0,"Male",13,0,2,0,2.17
+"US0431","US",29,"US29","Julie",7,NA,"Quit",0,"Female",14,0,9,0,2
+"US0432","US",29,"US29","Josh",8,"1st jury member","7th voted out",0,"Male",36,1,5,0,4.5
+"US0433","US",29,"US29","Jeremy",9,"2nd jury member","8th voted out",0,"Male",46,1,9,0,5.11
+"US0434","US",29,"US29","Wes",10,"3rd jury member","9th voted out",0,"Male",9,1,5,0,0.9
+"US0435","US",29,"US29","Reed",11,"4th jury member","10th voted out",0,"Male",22,1,9,0,2
+"US0436","US",29,"US29","Alec",12,"5th jury member","11th voted out",0,"Male",17,1,5,0,1.42
+"US0437","US",29,"US29","Jon",13,"6th jury member","12th voted out",0,"Male",56,1,6,2,4.31
+"US0438","US",29,"US29","Baylor",14,"7th jury member","13th voted out",0,"Female",36,1,2,0,2.57
+"US0439","US",29,"US29","Keith",15,"8th jury member","14th voted out",0,"Male",47,1,6,1,3.13
+"US0440","US",29,"US29","Missy",16,NA,"2nd runner-up",0,"Female",31,1,6,0,1.94
+"US0441","US",29,"US29","Jaclyn",17,NA,"Runner-up",0,"Female",31,1,2,0,1.82
+"US0442","US",29,"US29","Natalie",18,NA,"Sole Survivor",1,"Female",46,1,9,1,2.56
+"US0443","US",30,"US30","So",1,NA,"1st voted out",0,"Female",7,0,0,0,7
+"US0444","US",30,"US30","Vince",2,NA,"2nd voted out",0,"Male",12,0,1,0,6
+"US0445","US",30,"US30","Nina",3,NA,"3rd voted out",0,"Female",6,0,1,0,2
+"US0446","US",30,"US30","Lindsey",4,NA,"4th voted out",0,"Female",7,0,2,0,1.75
+"US0447","US",30,"US30","Max",5,NA,"5th voted out",0,"Male",10,0,4,0,2
+"US0448","US",30,"US30","Joaquin",6,NA,"6th voted out",0,"Male",10,0,6,0,1.67
+"US0449","US",30,"US30","Kelly",7,NA,"7th voted out",0,"Female",12,0,4,0,1.71
+"US0450","US",30,"US30","Hali",8,"1st jury member","8th voted out",0,"Female",14,1,5,0,1.75
+"US0451","US",30,"US30","Joe",9,"2nd jury member","9th voted out",0,"Male",26,1,5,0,2.89
+"US0452","US",30,"US30","Jenn",10,"3rd jury member","10th voted out",0,"Female",36,1,5,1,3.6
+"US0453","US",30,"US30","Shirin",11,"4th jury member","11th voted out",0,"Female",33,1,6,0,3
+"US0454","US",30,"US30","Tyler",12,"5th jury member","12th voted out",0,"Male",27,1,6,0,2.25
+"US0455","US",30,"US30","Dan",13,"6th jury member","13th voted out",0,"Male",37,1,4,1,2.85
+"US0456","US",30,"US30","Sierra",14,"7th jury member","14th voted out",0,"Female",21,1,4,0,1.5
+"US0457","US",30,"US30","Rodney",15,"8th jury member","15th voted out",0,"Male",52,1,4,0,3.47
+"US0458","US",30,"US30","Will",16,NA,"Co-runner-up",0,"Male",24,1,5,0,1.5
+"US0459","US",30,"US30","Carolyn",17,NA,"Co-runner-up",0,"Female",50,1,6,1,2.94
+"US0460","US",30,"US30","Mike",18,NA,"Sole Survivor",1,"Male",73,1,4,1,4.06
+"US0402","US",31,"US31","Vytas",1,NA,"1st voted out",0,"Male",3,0,1,0,3
+"US0453","US",31,"US31","Shirin",2,NA,"2nd voted out",0,"Female",9,0,1,0,4.5
+"US0233","US",31,"US31","Peih-Gee",3,NA,"3rd voted out",0,"Female",7,0,1,0,2.33
+"US0023","US",31,"US31","Jeff",4,NA,"4th voted out",0,"Male",16,0,2,0,4
+"US0295","US",31,"US31","Monica",5,NA,"5th voted out",0,"Female",6,0,4,0,1.2
+"US0180","US",31,"US31","Terry",6,NA,"Withdrew",0,"Male",7,0,6,0,1.17
+"US0423","US",31,"US31","Woo",7,NA,"6th voted out",0,"Male",11,0,5,0,1.57
+"US0422","US",31,"US31","Kass",8,"1st jury member","7th voted out",0,"Female",18,1,8,0,2.25
+"US0105","US",31,"US31","Andrew",9,"2nd jury member","8th voted out",0,"Male",31,1,6,0,3.44
+"US0015","US",31,"US31","Kelly",10,"3rd jury member","9th voted out",0,"Female",5,1,4,0,0.5
+"US0406","US",31,"US31","Ciera",11,"4th jury member","10th voted out",0,"Female",19,1,8,0,1.73
+"US0280","US",31,"US31","Stephen",12,"5th jury member","11th voted out",0,"Male",42,1,5,1,3.5
+"US0451","US",31,"US31","Joe",13,"6th jury member","12th voted out",0,"Male",30,1,8,0,2.31
+"US0383","US",31,"US31","Abi-Maria",14,"7th jury member","13th voted out",0,"Female",28,1,5,0,2
+"US0021","US",31,"US31","Kimmi",15,"8th jury member","14th voted out",0,"Female",13,1,5,0,0.87
+"US0439","US",31,"US31","Keith",16,"9th jury member","15th voted out",0,"Male",17,1,8,0,1.06
+"US0429","US",31,"US31","Kelley",17,"10th jury member","16th voted out",0,"Female",44,1,7,2,2.59
+"US0421","US",31,"US31","Spencer",18,NA,"Co-runner-up",0,"Male",56,1,4,0,3.11
+"US0419","US",31,"US31","Tasha",19,NA,"Co-runner-up",0,"Female",32,1,6,0,1.68
+"US0433","US",31,"US31","Jeremy",20,NA,"Sole Survivor",1,"Male",44,1,5,2,2.2
+"US0461","US",32,"US32","Darnell",1,NA,"1st voted out",0,"Male",4,0,0,0,4
+"US0462","US",32,"US32","Jennifer",2,NA,"2nd voted out",0,"Female",8,0,0,0,4
+"US0463","US",32,"US32","Liz",3,NA,"3rd voted out",0,"Female",10,0,2,0,3.33
+"US0464","US",32,"US32","Caleb",4,NA,"Medically evacuated",0,"Male",6,0,4,0,1.5
+"US0465","US",32,"US32","Alecia",5,NA,"4th voted out",0,"Female",15,0,1,0,3
+"US0466","US",32,"US32","Anna",6,NA,"5th voted out",0,"Female",10,0,5,0,1.67
+"US0467","US",32,"US32","Peter",7,NA,"6th voted out",0,"Male",17,0,5,0,2.43
+"US0468","US",32,"US32","Neal",8,NA,"Medically evacuated",0,"Male",16,0,6,1,2
+"US0469","US",32,"US32","Nick",9,"2nd jury member","7th voted out",0,"Male",27,1,7,0,3
+"US0470","US",32,"US32","Debbie",10,"3rd jury member","8th voted out",0,"Female",26,1,6,0,2.6
+"US0471","US",32,"US32","Scot",11,"4th jury member","9th voted out",0,"Male",36,1,2,0,3.27
+"US0472","US",32,"US32","Julia",12,"5th jury member","10th voted out",0,"Female",16,1,6,0,1.33
+"US0473","US",32,"US32","Jason",13,"6th jury member","11th voted out",0,"Male",44,1,3,1,3.38
+"US0474","US",32,"US32","Joe",14,"7th jury member","Medically evacuated",0,"Male",21,1,5,0,1.5
+"US0475","US",32,"US32","Cydney",15,"8th jury member","12th voted out",0,"Female",37,1,3,0,2.47
+"US0476","US",32,"US32","Tai",16,NA,"2nd runner-up",0,"Male",74,1,6,2,4.62
+"US0477","US",32,"US32","Aubry",17,NA,"Runner-up",0,"Female",70,1,5,0,4.12
+"US0478","US",32,"US32","Michele",18,NA,"Sole Survivor",1,"Female",57,1,7,0,3.17
+"US0479","US",33,"US33","Rachel",1,NA,"1st voted out",0,"Female",3,0,0,0,3
+"US0480","US",33,"US33","Mari",2,NA,"2nd voted out",0,"Female",6,0,1,0,3
+"US0481","US",33,"US33","Paul",3,NA,"3rd voted out",0,"Male",8,0,1,0,2.67
+"US0482","US",33,"US33","Lucy",4,NA,"4th voted out",0,"Female",3,0,2,0,0.75
+"US0483","US",33,"US33","CeCe",5,NA,"5th voted out",0,"Female",6,0,2,0,1.2
+"US0484","US",33,"US33","Figgy",6,NA,"6th voted out",0,"Female",12,0,4,0,2
+"US0485","US",33,"US33","Michaela",7,NA,"7th voted out",0,"Female",15,0,7,0,2.14
+"US0486","US",33,"US33","Michelle",8,"1st jury member","8th voted out",0,"Female",10,1,7,0,1.25
+"US0487","US",33,"US33","Taylor",9,"2nd jury member","9th voted out",0,"Male",23,1,5,0,2.56
+"US0488","US",33,"US33","Chris",10,"3rd jury member","10th voted out",0,"Male",22,1,6,0,2.2
+"US0489","US",33,"US33","Jessica",11,"4th jury member","Eliminated",0,"Female",19,1,4,1,1.73
+"US0490","US",33,"US33","Zeke",12,"5th jury member","12th voted out",0,"Male",40,1,7,0,3.33
+"US0491","US",33,"US33","Will",13,"6th jury member","13th voted out",0,"Male",19,1,7,0,1.46
+"US0492","US",33,"US33","Sunday",14,"7th jury member","14th voted out",0,"Female",10,1,6,0,0.71
+"US0493","US",33,"US33","Jay",15,"8th jury member","15th voted out",0,"Male",49,1,7,1,3.27
+"US0494","US",33,"US33","Bret",16,"9th jury member","16th voted out",0,"Male",25,1,6,0,1.56
+"US0495","US",33,"US33","David",17,"10th jury member","17th voted out",0,"Male",56,1,6,2,3.29
+"US0496","US",33,"US33","Hannah",18,NA,"Co-runner-up",0,"Female",29,1,7,0,1.61
+"US0497","US",33,"US33","Ken",19,NA,"Co-runner-up",0,"Male",27,1,4,0,1.42
+"US0498","US",33,"US33","Adam",20,NA,"Sole Survivor",1,"Male",53,1,5,3,2.65
+"US0406","US",34,"US34","Ciera",1,NA,"1st voted out",0,"Female",3,0,0,0,3
+"US0424","US",34,"US34","Tony",2,NA,"2nd voted out",0,"Male",12,0,0,0,6
+"US0464","US",34,"US34","Caleb",3,NA,"3rd voted out",0,"Male",7,0,0,0,2.33
+"US0384","US",34,"US34","Malcolm",4,NA,"4th voted out",0,"Male",10,0,2,0,2.5
+"US0281","US",34,"US34","J.T.",5,NA,"5th voted out",0,"Male",19,0,6,1,3.8
+"US0112","US",34,"US34","Sandra",6,NA,"6th voted out",0,"Female",21,0,3,0,3.5
+"US0023","US",34,"US34","Jeff",7,NA,"7th voted out",0,"Male",21,0,4,0,3
+"US0450","US",34,"US34","Hali",8,"1st jury member","8th voted out",0,"Female",9,1,4,0,1.12
+"US0201","US",34,"US34","Ozzy",9,"2nd jury member","9th voted out",0,"Male",8,1,8,0,0.89
+"US0470","US",34,"US34","Debbie",10,"3rd jury member","10th voted out",0,"Female",32,1,8,1,3.2
+"US0490","US",34,"US34","Zeke",11,"4th jury member","11th voted out",0,"Male",25,1,7,0,2.27
+"US0456","US",34,"US34","Sierra",12,"5th jury member","12th voted out",0,"Female",23,1,7,1,1.92
+"US0333","US",34,"US34","Andrea",13,"6th jury member","13th voted out",0,"Female",18,1,8,0,1.38
+"US0485","US",34,"US34","Michaela",14,"7th jury member","14th voted out",0,"Female",24,1,3,0,1.71
+"US0179","US",34,"US34","Cirie",15,"8th jury member","Eliminated",0,"Female",39,1,7,0,2.6
+"US0477","US",34,"US34","Aubry",16,"9th jury member","15th voted out",0,"Female",20,1,3,0,1.25
+"US0476","US",34,"US34","Tai",17,"10th jury member","16th voted out",0,"Male",31,1,8,3,1.82
+"US0364","US",34,"US34","Troyzan",18,NA,"2nd runner-up",0,"Male",14,1,4,1,0.78
+"US0401","US",34,"US34","Brad",19,NA,"Runner-up",0,"Male",31,1,7,0,1.63
+"US0414","US",34,"US34","Sarah",20,NA,"Sole Survivor",1,"Female",45,1,8,1,2.25
+"US0499","US",35,"US35","Katrina",1,NA,"1st voted out",0,"Female",2,0,1,0,2
+"US0500","US",35,"US35","Simone",2,NA,"2nd voted out",0,"Female",4,0,1,0,2
+"US0501","US",35,"US35","Patrick",3,NA,"3rd voted out",0,"Male",7,0,1,0,2.33
+"US0502","US",35,"US35","Alan",4,NA,"4th voted out",0,"Male",10,0,2,0,2.5
+"US0503","US",35,"US35","Roark",5,NA,"5th voted out",0,"Female",7,0,5,0,1.4
+"US0504","US",35,"US35","Ali",6,NA,"6th voted out",0,"Female",16,0,3,0,2.67
+"US0505","US",35,"US35","Jessica",7,NA,"7th voted out",0,"Female",18,0,10,1,2.57
+"US0506","US",35,"US35","Desi",8,"1st jury member","8th voted out",0,"Female",8,1,7,0,1
+"US0507","US",35,"US35","Cole",9,"2nd jury member","9th voted out",0,"Male",21,1,10,0,2.33
+"US0508","US",35,"US35","JP",10,"3rd jury member","10th voted out",0,"Male",5,1,4,0,0.5
+"US0509","US",35,"US35","Joe",11,"4th jury member","11th voted out",0,"Male",28,1,7,2,2.55
+"US0510","US",35,"US35","Lauren",12,"5th jury member","12th voted out",0,"Female",34,1,7,3,2.83
+"US0511","US",35,"US35","Ashley",13,"6th jury member","13th voted out",0,"Female",27,1,5,0,2.08
+"US0512","US",35,"US35","Mike",14,"7th jury member","14th voted out",0,"Male",33,1,10,1,2.36
+"US0513","US",35,"US35","Devon",15,"8th jury member","Eliminated",0,"Male",41,1,4,0,2.73
+"US0514","US",35,"US35","Ryan",16,NA,"2nd runner-up",0,"Male",49,1,3,2,3.06
+"US0515","US",35,"US35","Chrissy",17,NA,"Runner-up",0,"Female",51,1,4,0,3
+"US0516","US",35,"US35","Ben",18,NA,"Sole Survivor",1,"Male",70,1,8,3,3.89
+"US0517","US",36,"US36","Gonzalez",1,NA,"1st voted out",0,"Female",2,0,1,0,2
+"US0518","US",36,"US36","Jacob",2,NA,"2nd voted out",0,"Male",15,0,1,1,7.5
+"US0519","US",36,"US36","Morgan",3,NA,"3rd voted out",0,"Female",6,0,2,0,2
+"US0520","US",36,"US36","Brendan",4,NA,"4th voted out",0,"Male",5,0,2,0,1.25
+"US0521","US",36,"US36","Stephanie",5,NA,"5th voted out",0,"Female",12,0,2,0,2.4
+"US0522","US",36,"US36","James",6,NA,"6th voted out",0,"Male",7,0,5,0,1.17
+"US0523","US",36,"US36","Bradley",7,NA,"7th voted out",0,"Male",12,0,5,0,1.71
+"US0524","US",36,"US36","Chris",8,"1st jury member","8th voted out",0,"Male",26,1,9,1,3.25
+"US0525","US",36,"US36","Libby",9,"2nd jury member","9th voted out",0,"Female",11,1,7,0,1.22
+"US0526","US",36,"US36","Desiree",10,"3rd jury member","10th voted out",0,"Female",14,1,4,0,1.4
+"US0527","US",36,"US36","Jenna",11,"4th jury member","11th voted out",0,"Female",12,1,5,0,1.09
+"US0528","US",36,"US36","Michael",12,"5th jury member","12th voted out",0,"Male",32,1,3,2,2.67
+"US0529","US",36,"US36","Chelsea",13,"6th jury member","13th voted out",0,"Female",4,1,5,0,0.31
+"US0530","US",36,"US36","Kellyn",14,"7th jury member","14th voted out",0,"Female",41,1,4,1,2.93
+"US0531","US",36,"US36","Sebastian",15,"8th jury member","15th voted out",0,"Male",12,1,6,1,0.8
+"US0532","US",36,"US36","Donathan",16,"9th jury member","16th voted out",0,"Male",33,1,7,2,2.06
+"US0533","US",36,"US36","Angela",17,"10th jury member","Eliminated",0,"Female",15,1,7,0,0.88
+"US0534","US",36,"US36","Laurel",18,"11th jury member","2nd runner-up",0,"Female",27,1,8,0,1.5
+"US0535","US",36,"US36","Domenick",19,NA,"Runner-up",0,"Male",68,1,8,1,3.58
+"US0536","US",36,"US36","Wendell",20,NA,"Sole Survivor",1,"Male",39,1,9,1,1.95
+"US0537","US",37,"US37","Pat",1,NA,"Medically evacuated",0,"Male",2,0,1,0,2
+"US0538","US",37,"US37","Jessica",2,NA,"1st voted out",0,"Female",5,0,1,0,2.5
+"US0539","US",37,"US37","Jeremy",3,NA,"2nd voted out",0,"Male",13,0,2,0,4.33
+"US0540","US",37,"US37","Bi",4,NA,"Quit",0,"Female",5,0,2,0,1.25
+"US0541","US",37,"US37","Natalia",5,NA,"3rd voted out",0,"Female",6,0,2,0,1.2
+"US0542","US",37,"US37","Natalie",6,NA,"4th voted out",0,"Female",15,0,3,0,2.5
+"US0543","US",37,"US37","Lyrsa",7,NA,"5th voted out",0,"Female",11,0,4,0,1.57
+"US0544","US",37,"US37","Elizabeth",8,"1st jury member","6th voted out",0,"Female",16,1,5,0,2
+"US0545","US",37,"US37","John",9,"2nd jury member","7th voted out",0,"Male",12,1,6,0,1.33
+"US0546","US",37,"US37","Dan",10,"3rd jury member","8th voted out",0,"Male",22,1,6,2,2.2
+"US0547","US",37,"US37","Alec",11,"4th jury member","9th voted out",0,"Male",25,1,5,0,2.27
+"US0548","US",37,"US37","Carl",12,"5th jury member","10th voted out",0,"Male",17,1,5,1,1.42
+"US0549","US",37,"US37","Gabby",13,"6th jury member","11th voted out",0,"Female",26,1,6,0,2
+"US0550","US",37,"US37","Christian",14,"7th jury member","12th voted out",0,"Male",39,1,5,1,2.79
+"US0551","US",37,"US37","Davie",15,"8th jury member","13th voted out",0,"Male",34,1,5,2,2.27
+"US0552","US",37,"US37","Alison",16,"9th jury member","14th voted out",0,"Female",21,1,6,0,1.31
+"US0553","US",37,"US37","Kara",17,"10th jury member","Eliminated",0,"Female",33,1,5,0,1.94
+"US0554","US",37,"US37","Angelina",18,NA,"2nd runner-up",0,"Female",54,1,4,1,3
+"US0555","US",37,"US37","Mike",19,NA,"Runner-up",0,"Male",47,1,4,0,2.47
+"US0556","US",37,"US37","Nick",20,NA,"Sole Survivor",1,"Male",53,1,4,2,2.65
+"US0557","US",38,"US38","Reem",1,"1st jury member","1st voted out",0,"Female",15,1,0,0,15
+"US0558","US",38,"US38","Keith",2,NA,"2nd voted out; Quit EoE",0,"Male",16,0,0,0,8
+"US0559","US",38,"US38","Chris",3,NA,"3rd voted out",0,"Male",23,0,1,1,7.67
+"US0560","US",38,"US38","Rick",4,NA,"4th voted out",0,"Male",63,0,1,5,15.75
+"US0477","US",38,"US38","Aubry",5,"2nd jury member","5th voted out",0,"Female",24,1,5,2,4.8
+"US0561","US",38,"US38","Wendy",6,NA,"6th voted out; Quit EoE",0,"Female",18,0,4,0,3
+"US0451","US",38,"US38","Joe",7,"3rd jury member","7th voted out",0,"Male",11,1,8,0,1.57
+"US0562","US",38,"US38","Eric",8,"4th jury member","8th voted out",0,"Male",14,1,6,0,1.75
+"US0563","US",38,"US38","Julia",9,"5th jury member","9th voted out",0,"Female",10,1,8,0,1.11
+"US0495","US",38,"US38","David",10,"6th jury member","10th voted out",0,"Male",28,1,2,0,2.8
+"US0429","US",38,"US38","Kelley",11,"7th jury member","11th voted out",0,"Female",30,1,2,1,2.73
+"US0564","US",38,"US38","Wardog",12,"8th jury member","12th voted out",0,"Male",28,1,2,0,2.33
+"US0565","US",38,"US38","Ron",13,"9th jury member","13th voted out",0,"Male",27,1,8,1,2.08
+"US0566","US",38,"US38","Aurora",14,"10th jury member","14th voted out",0,"Female",15,1,8,0,1.07
+"US0567","US",38,"US38","Victoria",15,"11th jury member","15th voted out",0,"Female",22,1,6,0,1.47
+"US0568","US",38,"US38","Lauren",16,"12th jury member","16th voted out",0,"Female",28,1,2,1,1.75
+"US0560","US",38,"US38","Rick",17,"13th jury member","Eliminated",0,"Male",63,1,1,5,3.71
+"US0569","US",38,"US38","Julie",18,NA,"2nd runner-up",0,"Female",32,1,8,0,1.78
+"US0570","US",38,"US38","Gavin",19,NA,"Runner-up",0,"Male",26,1,6,0,1.37
+"US0559","US",38,"US38","Chris",20,NA,"Sole Survivor",1,"Male",23,1,1,1,1.15
+"US0571","US",39,"US39","Ronnie",1,NA,"1st voted out",0,"Male",1,0,0,0,1
+"US0572","US",39,"US39","Molly",2,NA,"2nd voted out",0,"Female",6,0,1,0,3
+"US0573","US",39,"US39","Vince",3,NA,"3rd voted out",0,"Male",14,0,1,1,4.67
+"US0574","US",39,"US39","Chelsea",4,NA,"4th voted out",0,"Female",5,0,1,1,1.25
+"US0575","US",39,"US39","Tom",5,NA,"5th voted out",0,"Male",7,0,1,0,1.4
+"US0576","US",39,"US39","Jason",6,NA,"6th voted out",0,"Male",10,0,6,0,1.67
+"US0577","US",39,"US39","Jack",7,"1st jury member","7th voted out",0,"Male",9,1,4,0,1.29
+"US0578","US",39,"US39","Kellee",8,"2nd jury member","8th voted out",0,"Female",34,1,4,3,4.25
+"US0579","US",39,"US39","Jamal",9,"3rd jury member","9th voted out",0,"Male",20,1,4,1,2.22
+"US0580","US",39,"US39","Aaron",10,"4th jury member","10th voted out",0,"Male",19,1,6,0,1.9
+"US0581","US",39,"US39","Missy",11,"5th jury member","11th voted out",0,"Female",21,1,6,0,1.91
+"US0582","US",39,"US39","Elizabeth",12,"6th jury member","12th voted out",0,"Female",24,1,6,0,2
+"US0583","US",39,"US39","Karishma",13,"7th jury member","13th voted out",0,"Female",33,1,2,1,2.54
+"US0584","US",39,"US39","Elaine",14,"8th jury member","14th voted out",0,"Female",34,1,6,2,2.43
+"US0585","US",39,"US39","Dan",15,NA,"Ejected",0,"Male",17,0,8,0,1.13
+"US0586","US",39,"US39","Janet",16,"9th jury member","15th voted out",0,"Female",33,1,4,2,2.06
+"US0587","US",39,"US39","Lauren",17,"10th jury member","Eliminated",0,"Female",37,1,8,1,2.18
+"US0588","US",39,"US39","Noura",18,NA,"2nd runner-up",0,"Female",34,1,4,0,1.89
+"US0589","US",39,"US39","Dean",19,NA,"Runner-up",0,"Male",47,1,2,2,2.47
+"US0590","US",39,"US39","Tommy",20,NA,"Sole Survivor",1,"Male",52,1,8,0,2.6
+"US0442","US",40,"US40","Natalie",1,NA,"1st voted out",0,"Female",38,0,0,4,38
+"US0027","US",40,"US40","Amber",2,"1st jury member","2nd voted out",0,"Female",22,1,1,0,11
+"US0166","US",40,"US40","Danni",3,"2nd jury member","3rd voted out",0,"Female",15,1,1,0,5
+"US0048","US",40,"US40","Ethan",4,"3rd jury member","4th voted out",0,"Male",20,1,1,0,5
+"US0274","US",40,"US40","Tyson",5,NA,"5th voted out",0,"Male",29,0,3,1,5.8
+"US0055","US",40,"US40","Boston Rob",6,"4th jury member","6th voted out",0,"Male",29,1,2,0,4.83
+"US0197","US",40,"US40","Parvati",7,"5th jury member","7th voted out",0,"Female",26,1,3,0,3.71
+"US0112","US",40,"US40","Sandra",8,NA,"8th voted out; Quit EoE",0,"Female",16,0,4,0,2
+"US0202","US",40,"US40","Yul",9,"6th jury member","9th voted out",0,"Male",18,1,5,0,2
+"US0536","US",40,"US40","Wendell",10,"7th jury member","10th voted out",0,"Male",14,1,5,0,1.4
+"US0498","US",40,"US40","Adam",11,"8th jury member","11th voted out",0,"Male",37,1,5,0,3.36
+"US0274","US",40,"US40","Tyson",12,"9th jury member","12th voted out",0,"Male",29,1,3,1,2.42
+"US0353","US",40,"US40","Sophie",13,"10th jury member","13th voted out",0,"Female",20,1,6,2,1.54
+"US0371","US",40,"US40","Kim",14,"11th jury member","14th voted out",0,"Female",20,1,5,2,1.43
+"US0433","US",40,"US40","Jeremy",15,"12th jury member","15th voted out",0,"Male",33,1,4,0,2.2
+"US0556","US",40,"US40","Nick",16,"13th jury member","16th voted out",0,"Male",28,1,5,0,1.75
+"US0386","US",40,"US40","Denise",17,"14th jury member","17th voted out",0,"Female",20,1,4,2,1.18
+"US0516","US",40,"US40","Ben",18,"15th jury member","18th voted out",0,"Male",40,1,5,1,2.22
+"US0414","US",40,"US40","Sarah",19,"16th jury member","Eliminated",0,"Female",40,1,6,0,2.11
+"US0478","US",40,"US40","Michele",20,NA,"2nd runner-up",0,"Female",37,1,4,1,1.85
+"US0442","US",40,"US40","Natalie",21,NA,"Runner-up",0,"Female",38,1,0,4,1.81
+"US0424","US",40,"US40","Tony",22,NA,"Sole Survivor",1,"Male",73,1,5,1,3.32
+"US0591","US",41,"US41","Abraham",1,NA,"1st voted out",0,"Male",2,0,0,0,2
+"US0592","US",41,"US41","Sara",2,NA,"2nd voted out",0,"Female",4,0,1,0,2
+"US0607","US",41,"US41","Voce",3,NA,"3rd voted out",0,"Male",6,0,0,0,2
+"US0602","US",41,"US41","Brad",4,NA,"4th voted out",0,"Male",14,0,2,2,3.5
+"US0603","US",41,"US41","JD",5,NA,"5th voted out",0,"Male",22,0,3,1,4.4
+"US0595","US",41,"US41","Genie",6,NA,"6th voted out",0,"Female",11,0,3,0,1.83
+"US0605","US",41,"US41","Sydney",7,NA,"7th voted out",0,"Female",15,0,5,0,2.14
+"US0604","US",41,"US41","Tiffany",8,"1st jury member","8th voted out",0,"Female",25,1,4,0,3.12
+"US0600","US",41,"US41","Naseer",9,"2nd jury member","9th voted out",0,"Male",11,1,5,1,1.22
+"US0598","US",41,"US41","Evvie",10,"3rd jury member","10th voted out",0,"Non-binary",35,1,4,0,3.5
+"US0606","US",41,"US41","Shan",11,"4th jury member","11th voted out",0,"Female",51,1,3,1,4.64
+"US0608","US",41,"US41","Liana",12,"5th jury member","12th voted out",0,"Female",34,1,4,1,2.83
+"US0599","US",41,"US41","Danny",13,"6th jury member","13th voted out",0,"Male",29,1,5,0,2.23
+"US0596","US",41,"US41","Ricard",14,"7th jury member","14th voted out",0,"Male",36,1,3,0,2.57
+"US0593","US",41,"US41","Heather",15,"8th jury member","Eliminated",0,"Female",13,1,5,0,0.87
+"US0597","US",41,"US41","Xander",16,NA,"2nd runner-up",0,"Male",56,1,4,2,3.5
+"US0601","US",41,"US41","Deshawn",17,NA,"Runner-up",0,"Male",56,1,5,1,3.29
+"US0594","US",41,"US41","Erika",18,NA,"Sole Survivor",1,"Female",39,1,5,0,2.17
+"US0613","US",42,"US42","Jackson",1,NA,"Medically evacuated",0,"Male",2,0,0,0,2
+"US0626","US",42,"US42","Zach",2,NA,"1st voted out",0,"Male",7,0,1,0,3.5
+"US0618","US",42,"US42","Marya",3,NA,"2nd voted out",0,"Female",6,0,1,0,2
+"US0614","US",42,"US42","Jenny",4,NA,"3rd voted out",0,"Female",6,0,2,0,1.5
+"US0624","US",42,"US42","Swati",5,NA,"4th voted out",0,"Female",7,0,3,0,1.4
+"US0610","US",42,"US42","Daniel",6,NA,"5th voted out",0,"Male",15,0,3,0,2.5
+"US0617","US",42,"US42","Lydia",7,NA,"6th voted out",0,"Female",14,0,3,0,2
+"US0609","US",42,"US42","Chanelle",8,"1st jury member","7th voted out",0,"Female",18,1,3,0,2.25
+"US0622","US",42,"US42","Rocksroy",9,"2nd jury member","8th voted out",0,"Male",21,1,4,0,2.33
+"US0625","US",42,"US42","Tori",10,"3rd jury member","9th voted out",0,"Female",18,1,4,0,1.8
+"US0612","US",42,"US42","Hai",11,"4th jury member","10th voted out",0,"Male",37,1,3,1,3.36
+"US0611","US",42,"US42","Drea",12,"5th jury member","11th voted out",0,"Female",34,1,4,4,2.83
+"US0621","US",42,"US42","Omar",13,"6th jury member","12th voted out",0,"Male",41,1,5,1,3.15
+"US0616","US",42,"US42","Lindsay",14,"7th jury member","13th voted out",0,"Female",45,1,5,1,3.21
+"US0615","US",42,"US42","Jonathan",15,"8th jury member","Eliminated",0,"Male",31,1,5,0,2.07
+"US0623","US",42,"US42","Romeo",16,NA,"2nd runner-up",0,"Male",33,1,4,0,2.06
+"US0620","US",42,"US42","Mike",17,NA,"Runner-up",0,"Male",58,1,3,1,3.41
+"US0619","US",42,"US42","Maryanne",18,NA,"Sole Survivor",1,"Female",43,1,5,3,2.39
+"US0639","US",43,"US43","Morriah",1,NA,"1st voted out",0,"Female",3,0,0,0,3
+"US0635","US",43,"US43","Justine",2,NA,"2nd voted out",0,"Female",4,0,2,0,2
+"US0640","US",43,"US43","Nneka",3,NA,"3rd voted out",0,"Female",7,0,2,0,2.33
+"US0637","US",43,"US43","Lindsay",4,NA,"4th voted out",0,"Female",8,0,3,0,2
+"US0631","US",43,"US43","Geo",5,NA,"5th voted out",0,"Male",12,0,3,1,2.4
+"US0630","US",43,"US43","Elie",6,NA,"6th voted out",0,"Female",26,0,4,0,4.33
+"US0629","US",43,"US43","Dwight",7,NA,"7th voted out",0,"Male",15,0,5,0,2.14
+"US0633","US",43,"US43","Jeanine",8,"1st jury member","8th voted out",0,"Female",27,1,4,1,3.38
+"US0632","US",43,"US43","James",9,"2nd jury member","9th voted out",0,"Male",22,1,3,1,2.44
+"US0643","US",43,"US43","Ryan",10,"3rd jury member","10th voted out",0,"Male",17,1,3,0,1.7
+"US0641","US",43,"US43","Noelle",11,"4th jury member","11th voted out",0,"Female",21,1,5,1,1.91
+"US0644","US",43,"US43","Sami",12,"5th jury member","12th voted out",0,"Male",35,1,4,0,2.92
+"US0628","US",43,"US43","Cody",13,"6th jury member","13th voted out",0,"Male",50,1,5,2,3.85
+"US0636","US",43,"US43","Karla",14,"7th jury member","14th voted out",0,"Female",53,1,3,2,3.79
+"US0634","US",43,"US43","Jesse",15,"8th jury member","Eliminated",0,"Male",60,1,5,0,4
+"US0642","US",43,"US43","Owen",16,NA,"2nd runner-up",0,"Male",53,1,4,0,3.31
+"US0627","US",43,"US43","Cassidy",17,NA,"Runner-up",0,"Female",44,1,3,0,2.59
+"US0638","US",43,"US43","Gabler",18,NA,"Sole Survivor",1,"Male",45,1,4,1,2.5
